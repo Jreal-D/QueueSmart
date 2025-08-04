@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QueueSmart - Check Wait Times</title>
+    <link rel="stylesheet" href="/customer/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <i class="fas fa-clock"></i>
+                <h1>QueueSmart</h1>
+            </div>
+            <p class="tagline">Skip the wait, save your time</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            
+            <!-- Quick Check Section -->
+            <section class="quick-check">
+                <div class="card">
+                    <h2><i class="fas fa-search"></i> Check Wait Time</h2>
+                    
+                    <div class="form-group">
+                        <label for="customerBranch">Select Your Branch:</label>
+                        <select id="customerBranch" class="form-select">
+                            <option value="">Choose a branch...</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="customerService">What do you need to do?</label>
+                        <select id="customerService" class="form-select">
+                            <option value="">Select service...</option>
+                        </select>
+                    </div>
+
+                    <button id="checkWaitTime" class="btn-primary">
+                        <i class="fas fa-clock"></i> Check Wait Time
+                    </button>
+
+                    <!-- Results Section -->
+                    <div id="waitTimeResult" class="result-card" style="display: none;">
+                        <div class="result-header">
+                            <i class="fas fa-info-circle"></i>
+                            <h3>Current Wait Time</h3>
+                        </div>
+                        <div class="wait-time-display">
+                            <span id="waitTimeValue">--</span>
+                            <span class="unit">minutes</span>
+                        </div>
+                        <div class="result-details">
+                            <p><strong>Queue Position:</strong> <span id="queuePosition">--</span></p>
+                            <p><strong>Estimated Service Time:</strong> <span id="serviceTime">--</span></p>
+                            <p><strong>Confidence:</strong> <span id="confidence">--</span></p>
+                        </div>
+                        
+                        <div class="action-buttons">
+                            <button id="joinQueue" class="btn-success">
+                                <i class="fas fa-users"></i> Join Virtual Queue
+                            </button>
+                            <button id="getBestTimes" class="btn-info">
+                                <i class="fas fa-lightbulb"></i> See Best Times
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Best Times Recommendations -->
+            <section id="bestTimesSection" class="best-times" style="display: none;">
+                <div class="card">
+                    <h2><i class="fas fa-lightbulb"></i> Recommended Visit Times</h2>
+                    <p class="subtitle">Based on historical data and current patterns</p>
+                    
+                    <div class="recommendations-grid">
+                        <!-- Today's Recommendations -->
+                        <div class="time-card today">
+                            <h3><i class="fas fa-calendar-day"></i> Today</h3>
+                            <div id="todayRecommendations" class="time-slots">
+                                <!-- Will be populated by JavaScript -->
+                            </div>
+                        </div>
+
+                        <!-- Tomorrow's Recommendations -->
+                        <div class="time-card tomorrow">
+                            <h3><i class="fas fa-calendar-plus"></i> Tomorrow</h3>
+                            <div id="tomorrowRecommendations" class="time-slots">
+                                <!-- Will be populated by JavaScript -->
+                            </div>
+                        </div>
+
+                        <!-- This Week -->
+                        <div class="time-card week">
+                            <h3><i class="fas fa-calendar-week"></i> This Week</h3>
+                            <div id="weekRecommendations" class="time-slots">
+                                <!-- Will be populated by JavaScript -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tips-section">
+                        <h3><i class="fas fa-tips"></i> Tips for Faster Service</h3>
+                        <ul class="tips-list">
+                            <li>Avoid month-end days (higher customer volume)</li>
+                            <li>Tuesday-Thursday typically have shorter waits</li>
+                            <li>Early morning (8-9 AM) or late afternoon (3-4 PM) are usually best</li>
+                            <li>Have your documents ready before arriving</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Virtual Queue Status -->
+            <section id="queueStatusSection" class="queue-status" style="display: none;">
+                <div class="card">
+                    <h2><i class="fas fa-users"></i> Your Virtual Queue</h2>
+        
+                    <div class="queue-phase" id="queuePhaseDisplay">
+                     <!-- Will be populated based on current phase -->
+                    </div>
+
+                    <div class="queue-actions" id="queueActionsDisplay">
+                     <!-- Will be populated based on current phase -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Travel Time Selection Modal -->
+            <section id="travelTimeModal" class="travel-modal" style="display: none;">
+                <div class="modal-overlay">
+                    <div class="modal-content">
+                        <h3><i class="fas fa-route"></i> Join Virtual Queue</h3>
+                        <p>How long will it take you to get to the bank?</p>
+            
+                        <div class="travel-options">
+                            <button class="travel-option" data-minutes="5">5 minutes</button>
+                            <button class="travel-option" data-minutes="10">10 minutes</button>
+                            <button class="travel-option" data-minutes="15">15 minutes</button>
+                            <button class="travel-option" data-minutes="20">20 minutes</button>
+                            <button class="travel-option" data-minutes="30">30 minutes</button>
+                            <button class="travel-option" data-minutes="45">45 minutes</button>
+                            <button class="travel-option" data-minutes="60">1 hour</button>
+                            <button class="travel-option" data-minutes="90">1.5 hours</button>
+                        </div>
+            
+                        <div class="custom-travel">
+                            <label for="customMinutes">Or enter custom time:</label>
+                            <input type="number" id="customMinutes" placeholder="Minutes" min="1" max="180">
+                            <button id="useCustomTime" class="btn-info">Use This Time</button>
+                        </div>
+            
+                        <button id="cancelJoinQueue" class="btn-secondary">Cancel</button>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 QueueSmart - Making banking faster and smarter</p>
+            <p><a href="/dashboard">Admin Dashboard</a> | <a href="#">Help</a> | <a href="#">Contact</a></p>
+        </div>
+    </footer>
+
+    <script src="/customer/app.js"></script>
+</body>
+</html>

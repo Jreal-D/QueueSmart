@@ -1,0 +1,1073 @@
+customer_id,service_type,service_duration_minutes,arrival_time,branch
+CUST_65_20240101,General Inquiry,5,2024-01-01 08:03:00,Victoria Island
+CUST_107_20240101,Transfer,6,2024-01-01 08:30:00,Victoria Island
+CUST_18_20240101,Account Opening,27,2024-01-01 08:49:00,Victoria Island
+CUST_79_20240101,Transfer,6,2024-01-01 09:06:00,Victoria Island
+CUST_98_20240101,General Inquiry,5,2024-01-01 09:08:00,Victoria Island
+CUST_12_20240101,General Inquiry,1,2024-01-01 09:11:00,Victoria Island
+CUST_52_20240101,General Inquiry,1,2024-01-01 09:16:00,Victoria Island
+CUST_28_20240101,General Inquiry,3,2024-01-01 09:19:00,Victoria Island
+CUST_6_20240101,Transfer,7,2024-01-01 09:27:00,Victoria Island
+CUST_8_20240101,General Inquiry,4,2024-01-01 09:31:00,Victoria Island
+CUST_49_20240101,General Inquiry,2,2024-01-01 09:32:00,Victoria Island
+CUST_7_20240101,Transfer,10,2024-01-01 09:34:00,Victoria Island
+CUST_89_20240101,General Inquiry,1,2024-01-01 09:37:00,Victoria Island
+CUST_61_20240101,Transfer,9,2024-01-01 09:41:00,Victoria Island
+CUST_71_20240101,Cash Withdrawal,2,2024-01-01 09:41:00,Victoria Island
+CUST_108_20240101,Account Opening,31,2024-01-01 09:41:00,Victoria Island
+CUST_20_20240101,Cash Withdrawal,8,2024-01-01 09:42:00,Victoria Island
+CUST_85_20240101,Cash Withdrawal,6,2024-01-01 09:49:00,Victoria Island
+CUST_112_20240101,Cash Withdrawal,5,2024-01-01 09:50:00,Victoria Island
+CUST_111_20240101,Account Opening,20,2024-01-01 09:53:00,Victoria Island
+CUST_51_20240101,Cash Withdrawal,6,2024-01-01 09:54:00,Victoria Island
+CUST_76_20240101,Transfer,10,2024-01-01 09:56:00,Victoria Island
+CUST_22_20240101,Cash Withdrawal,2,2024-01-01 10:04:00,Victoria Island
+CUST_38_20240101,Cash Withdrawal,4,2024-01-01 10:04:00,Victoria Island
+CUST_59_20240101,Account Opening,25,2024-01-01 10:10:00,Victoria Island
+CUST_50_20240101,Cash Withdrawal,2,2024-01-01 10:11:00,Victoria Island
+CUST_68_20240101,Transfer,7,2024-01-01 10:13:00,Victoria Island
+CUST_34_20240101,Transfer,8,2024-01-01 10:15:00,Victoria Island
+CUST_62_20240101,Transfer,6,2024-01-01 10:17:00,Victoria Island
+CUST_25_20240101,General Inquiry,5,2024-01-01 10:20:00,Victoria Island
+CUST_105_20240101,Account Opening,27,2024-01-01 10:21:00,Victoria Island
+CUST_17_20240101,Account Opening,21,2024-01-01 10:29:00,Victoria Island
+CUST_19_20240101,Account Opening,17,2024-01-01 10:29:00,Victoria Island
+CUST_40_20240101,Transfer,7,2024-01-01 10:29:00,Victoria Island
+CUST_84_20240101,Account Opening,35,2024-01-01 10:38:00,Victoria Island
+CUST_16_20240101,Transfer,4,2024-01-01 10:42:00,Victoria Island
+CUST_41_20240101,Transfer,4,2024-01-01 10:42:00,Victoria Island
+CUST_55_20240101,Account Opening,30,2024-01-01 10:42:00,Victoria Island
+CUST_100_20240101,Cash Withdrawal,7,2024-01-01 10:42:00,Victoria Island
+CUST_46_20240101,Transfer,10,2024-01-01 10:44:00,Victoria Island
+CUST_23_20240101,Cash Withdrawal,6,2024-01-01 10:54:00,Victoria Island
+CUST_74_20240101,Cash Withdrawal,3,2024-01-01 10:55:00,Victoria Island
+CUST_104_20240101,Cash Withdrawal,4,2024-01-01 10:57:00,Victoria Island
+CUST_29_20240101,Cash Withdrawal,5,2024-01-01 11:07:00,Victoria Island
+CUST_99_20240101,General Inquiry,3,2024-01-01 11:07:00,Victoria Island
+CUST_77_20240101,General Inquiry,1,2024-01-01 11:10:00,Victoria Island
+CUST_64_20240101,Transfer,7,2024-01-01 11:18:00,Victoria Island
+CUST_1_20240101,Transfer,5,2024-01-01 11:20:00,Victoria Island
+CUST_75_20240101,Account Opening,20,2024-01-01 11:35:00,Victoria Island
+CUST_80_20240101,General Inquiry,3,2024-01-01 11:35:00,Victoria Island
+CUST_115_20240101,Cash Withdrawal,6,2024-01-01 11:35:00,Victoria Island
+CUST_4_20240101,General Inquiry,1,2024-01-01 11:39:00,Victoria Island
+CUST_53_20240101,Transfer,7,2024-01-01 11:40:00,Victoria Island
+CUST_81_20240101,Account Opening,15,2024-01-01 11:40:00,Victoria Island
+CUST_11_20240101,Cash Withdrawal,3,2024-01-01 11:47:00,Victoria Island
+CUST_90_20240101,Cash Withdrawal,8,2024-01-01 11:47:00,Victoria Island
+CUST_37_20240101,Transfer,5,2024-01-01 11:48:00,Victoria Island
+CUST_66_20240101,Transfer,7,2024-01-01 11:49:00,Victoria Island
+CUST_109_20240101,Transfer,4,2024-01-01 11:54:00,Victoria Island
+CUST_113_20240101,Account Opening,35,2024-01-01 11:54:00,Victoria Island
+CUST_2_20240101,Cash Withdrawal,7,2024-01-01 11:55:00,Victoria Island
+CUST_26_20240101,Cash Withdrawal,8,2024-01-01 11:59:00,Victoria Island
+CUST_73_20240101,Cash Withdrawal,8,2024-01-01 11:59:00,Victoria Island
+CUST_5_20240101,Cash Withdrawal,6,2024-01-01 12:01:00,Victoria Island
+CUST_96_20240101,Cash Withdrawal,4,2024-01-01 12:04:00,Victoria Island
+CUST_48_20240101,Account Opening,30,2024-01-01 12:07:00,Victoria Island
+CUST_43_20240101,Cash Withdrawal,7,2024-01-01 12:12:00,Victoria Island
+CUST_30_20240101,General Inquiry,3,2024-01-01 12:15:00,Victoria Island
+CUST_87_20240101,Cash Withdrawal,5,2024-01-01 12:16:00,Victoria Island
+CUST_86_20240101,Cash Withdrawal,8,2024-01-01 12:22:00,Victoria Island
+CUST_44_20240101,Transfer,7,2024-01-01 12:35:00,Victoria Island
+CUST_101_20240101,Transfer,9,2024-01-01 12:42:00,Victoria Island
+CUST_95_20240101,Account Opening,26,2024-01-01 12:56:00,Victoria Island
+CUST_47_20240101,General Inquiry,2,2024-01-01 13:00:00,Victoria Island
+CUST_83_20240101,Account Opening,19,2024-01-01 13:06:00,Victoria Island
+CUST_67_20240101,Transfer,3,2024-01-01 13:11:00,Victoria Island
+CUST_78_20240101,Account Opening,22,2024-01-01 13:11:00,Victoria Island
+CUST_57_20240101,Cash Withdrawal,5,2024-01-01 13:15:00,Victoria Island
+CUST_14_20240101,Loan Application,32,2024-01-01 13:18:00,Victoria Island
+CUST_39_20240101,Loan Application,41,2024-01-01 13:20:00,Victoria Island
+CUST_32_20240101,General Inquiry,4,2024-01-01 13:22:00,Victoria Island
+CUST_42_20240101,Cash Withdrawal,7,2024-01-01 13:23:00,Victoria Island
+CUST_92_20240101,Cash Withdrawal,8,2024-01-01 13:24:00,Victoria Island
+CUST_72_20240101,Loan Application,47,2024-01-01 13:29:00,Victoria Island
+CUST_91_20240101,Account Opening,45,2024-01-01 13:31:00,Victoria Island
+CUST_31_20240101,Cash Withdrawal,3,2024-01-01 13:32:00,Victoria Island
+CUST_56_20240101,Transfer,3,2024-01-01 13:33:00,Victoria Island
+CUST_58_20240101,Cash Withdrawal,4,2024-01-01 13:34:00,Victoria Island
+CUST_24_20240101,Account Opening,34,2024-01-01 13:40:00,Victoria Island
+CUST_54_20240101,Transfer,7,2024-01-01 13:45:00,Victoria Island
+CUST_60_20240101,Transfer,7,2024-01-01 13:46:00,Victoria Island
+CUST_45_20240101,General Inquiry,3,2024-01-01 13:47:00,Victoria Island
+CUST_94_20240101,General Inquiry,5,2024-01-01 13:48:00,Victoria Island
+CUST_10_20240101,Cash Withdrawal,7,2024-01-01 13:50:00,Victoria Island
+CUST_114_20240101,General Inquiry,1,2024-01-01 13:55:00,Victoria Island
+CUST_63_20240101,Cash Withdrawal,6,2024-01-01 13:57:00,Victoria Island
+CUST_13_20240101,Cash Withdrawal,5,2024-01-01 13:58:00,Victoria Island
+CUST_82_20240101,Transfer,7,2024-01-01 14:04:00,Victoria Island
+CUST_15_20240101,Account Opening,38,2024-01-01 14:23:00,Victoria Island
+CUST_35_20240101,Transfer,10,2024-01-01 14:26:00,Victoria Island
+CUST_106_20240101,General Inquiry,3,2024-01-01 14:26:00,Victoria Island
+CUST_88_20240101,Transfer,6,2024-01-01 14:28:00,Victoria Island
+CUST_70_20240101,General Inquiry,5,2024-01-01 14:33:00,Victoria Island
+CUST_97_20240101,Cash Withdrawal,7,2024-01-01 14:41:00,Victoria Island
+CUST_9_20240101,Transfer,6,2024-01-01 14:44:00,Victoria Island
+CUST_36_20240101,Transfer,9,2024-01-01 14:52:00,Victoria Island
+CUST_21_20240101,Account Opening,35,2024-01-01 14:56:00,Victoria Island
+CUST_3_20240101,Account Opening,39,2024-01-01 15:01:00,Victoria Island
+CUST_27_20240101,Cash Withdrawal,5,2024-01-01 15:02:00,Victoria Island
+CUST_33_20240101,Cash Withdrawal,5,2024-01-01 15:04:00,Victoria Island
+CUST_69_20240101,General Inquiry,2,2024-01-01 15:05:00,Victoria Island
+CUST_93_20240101,Transfer,3,2024-01-01 15:30:00,Victoria Island
+CUST_103_20240101,Loan Application,30,2024-01-01 15:39:00,Victoria Island
+CUST_102_20240101,Account Opening,23,2024-01-01 15:52:00,Victoria Island
+CUST_110_20240101,Cash Withdrawal,8,2024-01-01 15:53:00,Victoria Island
+CUST_162_20240101,Transfer,5,2024-01-01 08:06:00,Ikeja
+CUST_125_20240101,Cash Withdrawal,3,2024-01-01 08:07:00,Ikeja
+CUST_129_20240101,Account Opening,25,2024-01-01 08:08:00,Ikeja
+CUST_76_20240101,Cash Withdrawal,2,2024-01-01 08:10:00,Ikeja
+CUST_57_20240101,General Inquiry,2,2024-01-01 08:14:00,Ikeja
+CUST_116_20240101,Cash Withdrawal,8,2024-01-01 08:20:00,Ikeja
+CUST_17_20240101,General Inquiry,4,2024-01-01 08:21:00,Ikeja
+CUST_156_20240101,General Inquiry,2,2024-01-01 08:40:00,Ikeja
+CUST_135_20240101,Loan Application,28,2024-01-01 08:47:00,Ikeja
+CUST_147_20240101,Transfer,6,2024-01-01 08:49:00,Ikeja
+CUST_138_20240101,Cash Withdrawal,2,2024-01-01 09:05:00,Ikeja
+CUST_127_20240101,Cash Withdrawal,8,2024-01-01 09:07:00,Ikeja
+CUST_4_20240101,Transfer,4,2024-01-01 09:10:00,Ikeja
+CUST_139_20240101,Cash Withdrawal,3,2024-01-01 09:11:00,Ikeja
+CUST_149_20240101,Transfer,6,2024-01-01 09:11:00,Ikeja
+CUST_168_20240101,Transfer,10,2024-01-01 09:11:00,Ikeja
+CUST_8_20240101,Cash Withdrawal,3,2024-01-01 09:15:00,Ikeja
+CUST_178_20240101,Cash Withdrawal,3,2024-01-01 09:16:00,Ikeja
+CUST_10_20240101,Cash Withdrawal,6,2024-01-01 09:19:00,Ikeja
+CUST_141_20240101,Cash Withdrawal,7,2024-01-01 09:20:00,Ikeja
+CUST_77_20240101,Account Opening,42,2024-01-01 09:24:00,Ikeja
+CUST_169_20240101,Account Opening,22,2024-01-01 09:27:00,Ikeja
+CUST_15_20240101,Transfer,3,2024-01-01 09:28:00,Ikeja
+CUST_72_20240101,Loan Application,25,2024-01-01 09:29:00,Ikeja
+CUST_38_20240101,Cash Withdrawal,6,2024-01-01 09:30:00,Ikeja
+CUST_157_20240101,Transfer,7,2024-01-01 09:31:00,Ikeja
+CUST_35_20240101,Cash Withdrawal,5,2024-01-01 09:34:00,Ikeja
+CUST_102_20240101,Cash Withdrawal,7,2024-01-01 09:35:00,Ikeja
+CUST_132_20240101,Transfer,6,2024-01-01 09:40:00,Ikeja
+CUST_28_20240101,General Inquiry,2,2024-01-01 09:44:00,Ikeja
+CUST_88_20240101,Cash Withdrawal,6,2024-01-01 09:46:00,Ikeja
+CUST_58_20240101,Transfer,6,2024-01-01 09:47:00,Ikeja
+CUST_94_20240101,Transfer,6,2024-01-01 09:47:00,Ikeja
+CUST_124_20240101,Transfer,8,2024-01-01 09:48:00,Ikeja
+CUST_48_20240101,Transfer,7,2024-01-01 09:49:00,Ikeja
+CUST_78_20240101,Account Opening,28,2024-01-01 09:49:00,Ikeja
+CUST_86_20240101,Cash Withdrawal,8,2024-01-01 09:55:00,Ikeja
+CUST_182_20240101,Transfer,7,2024-01-01 09:55:00,Ikeja
+CUST_171_20240101,Transfer,10,2024-01-01 09:58:00,Ikeja
+CUST_99_20240101,Account Opening,41,2024-01-01 09:59:00,Ikeja
+CUST_52_20240101,General Inquiry,5,2024-01-01 10:00:00,Ikeja
+CUST_118_20240101,Transfer,5,2024-01-01 10:01:00,Ikeja
+CUST_170_20240101,Transfer,10,2024-01-01 10:03:00,Ikeja
+CUST_44_20240101,Transfer,10,2024-01-01 10:07:00,Ikeja
+CUST_109_20240101,Cash Withdrawal,8,2024-01-01 10:08:00,Ikeja
+CUST_166_20240101,Cash Withdrawal,2,2024-01-01 10:08:00,Ikeja
+CUST_176_20240101,Transfer,7,2024-01-01 10:10:00,Ikeja
+CUST_23_20240101,Transfer,3,2024-01-01 10:12:00,Ikeja
+CUST_82_20240101,Cash Withdrawal,2,2024-01-01 10:13:00,Ikeja
+CUST_66_20240101,General Inquiry,2,2024-01-01 10:15:00,Ikeja
+CUST_68_20240101,General Inquiry,2,2024-01-01 10:15:00,Ikeja
+CUST_112_20240101,Cash Withdrawal,7,2024-01-01 10:18:00,Ikeja
+CUST_25_20240101,General Inquiry,5,2024-01-01 10:20:00,Ikeja
+CUST_43_20240101,Transfer,5,2024-01-01 10:20:00,Ikeja
+CUST_53_20240101,Cash Withdrawal,7,2024-01-01 10:22:00,Ikeja
+CUST_55_20240101,Loan Application,22,2024-01-01 10:22:00,Ikeja
+CUST_33_20240101,Account Opening,30,2024-01-01 10:25:00,Ikeja
+CUST_50_20240101,Account Opening,15,2024-01-01 10:26:00,Ikeja
+CUST_96_20240101,Account Opening,19,2024-01-01 10:28:00,Ikeja
+CUST_140_20240101,Account Opening,42,2024-01-01 10:30:00,Ikeja
+CUST_32_20240101,Cash Withdrawal,3,2024-01-01 10:31:00,Ikeja
+CUST_47_20240101,Loan Application,60,2024-01-01 10:36:00,Ikeja
+CUST_164_20240101,Transfer,4,2024-01-01 10:42:00,Ikeja
+CUST_7_20240101,Cash Withdrawal,8,2024-01-01 10:45:00,Ikeja
+CUST_101_20240101,Transfer,9,2024-01-01 10:47:00,Ikeja
+CUST_128_20240101,Cash Withdrawal,7,2024-01-01 10:48:00,Ikeja
+CUST_75_20240101,Cash Withdrawal,8,2024-01-01 10:49:00,Ikeja
+CUST_98_20240101,Cash Withdrawal,5,2024-01-01 10:50:00,Ikeja
+CUST_177_20240101,Transfer,3,2024-01-01 10:50:00,Ikeja
+CUST_34_20240101,Cash Withdrawal,6,2024-01-01 10:51:00,Ikeja
+CUST_108_20240101,Transfer,3,2024-01-01 10:52:00,Ikeja
+CUST_5_20240101,General Inquiry,3,2024-01-01 10:53:00,Ikeja
+CUST_45_20240101,Account Opening,40,2024-01-01 10:55:00,Ikeja
+CUST_74_20240101,Cash Withdrawal,6,2024-01-01 10:59:00,Ikeja
+CUST_54_20240101,Cash Withdrawal,4,2024-01-01 11:01:00,Ikeja
+CUST_145_20240101,Transfer,9,2024-01-01 11:08:00,Ikeja
+CUST_39_20240101,Cash Withdrawal,6,2024-01-01 11:10:00,Ikeja
+CUST_1_20240101,General Inquiry,5,2024-01-01 11:11:00,Ikeja
+CUST_18_20240101,Cash Withdrawal,5,2024-01-01 11:12:00,Ikeja
+CUST_137_20240101,Transfer,9,2024-01-01 11:12:00,Ikeja
+CUST_89_20240101,Cash Withdrawal,8,2024-01-01 11:14:00,Ikeja
+CUST_31_20240101,Transfer,6,2024-01-01 11:15:00,Ikeja
+CUST_21_20240101,Transfer,3,2024-01-01 11:21:00,Ikeja
+CUST_26_20240101,Loan Application,55,2024-01-01 11:22:00,Ikeja
+CUST_181_20240101,Loan Application,52,2024-01-01 11:28:00,Ikeja
+CUST_46_20240101,Transfer,6,2024-01-01 11:30:00,Ikeja
+CUST_2_20240101,Transfer,4,2024-01-01 11:33:00,Ikeja
+CUST_81_20240101,Cash Withdrawal,4,2024-01-01 11:37:00,Ikeja
+CUST_180_20240101,General Inquiry,5,2024-01-01 11:37:00,Ikeja
+CUST_123_20240101,Cash Withdrawal,7,2024-01-01 11:41:00,Ikeja
+CUST_61_20240101,Transfer,7,2024-01-01 11:43:00,Ikeja
+CUST_64_20240101,General Inquiry,4,2024-01-01 11:48:00,Ikeja
+CUST_91_20240101,General Inquiry,5,2024-01-01 11:48:00,Ikeja
+CUST_130_20240101,Cash Withdrawal,3,2024-01-01 11:48:00,Ikeja
+CUST_184_20240101,Cash Withdrawal,7,2024-01-01 11:48:00,Ikeja
+CUST_121_20240101,Account Opening,36,2024-01-01 11:49:00,Ikeja
+CUST_104_20240101,General Inquiry,1,2024-01-01 11:50:00,Ikeja
+CUST_122_20240101,Account Opening,23,2024-01-01 11:50:00,Ikeja
+CUST_183_20240101,Loan Application,52,2024-01-01 11:54:00,Ikeja
+CUST_153_20240101,Account Opening,19,2024-01-01 11:56:00,Ikeja
+CUST_24_20240101,Transfer,8,2024-01-01 12:00:00,Ikeja
+CUST_42_20240101,Cash Withdrawal,5,2024-01-01 12:00:00,Ikeja
+CUST_107_20240101,Cash Withdrawal,2,2024-01-01 12:01:00,Ikeja
+CUST_133_20240101,Cash Withdrawal,7,2024-01-01 12:01:00,Ikeja
+CUST_175_20240101,General Inquiry,3,2024-01-01 12:02:00,Ikeja
+CUST_27_20240101,General Inquiry,2,2024-01-01 12:03:00,Ikeja
+CUST_105_20240101,Account Opening,23,2024-01-01 12:03:00,Ikeja
+CUST_126_20240101,Cash Withdrawal,7,2024-01-01 12:06:00,Ikeja
+CUST_69_20240101,General Inquiry,4,2024-01-01 12:07:00,Ikeja
+CUST_92_20240101,Account Opening,28,2024-01-01 12:12:00,Ikeja
+CUST_155_20240101,Cash Withdrawal,4,2024-01-01 12:13:00,Ikeja
+CUST_172_20240101,Cash Withdrawal,3,2024-01-01 12:13:00,Ikeja
+CUST_36_20240101,Loan Application,32,2024-01-01 12:14:00,Ikeja
+CUST_51_20240101,Account Opening,32,2024-01-01 12:14:00,Ikeja
+CUST_59_20240101,Cash Withdrawal,2,2024-01-01 12:17:00,Ikeja
+CUST_11_20240101,General Inquiry,4,2024-01-01 12:21:00,Ikeja
+CUST_79_20240101,Account Opening,35,2024-01-01 12:22:00,Ikeja
+CUST_93_20240101,Account Opening,15,2024-01-01 12:24:00,Ikeja
+CUST_67_20240101,Cash Withdrawal,4,2024-01-01 12:25:00,Ikeja
+CUST_120_20240101,Account Opening,37,2024-01-01 12:25:00,Ikeja
+CUST_41_20240101,Transfer,8,2024-01-01 12:28:00,Ikeja
+CUST_30_20240101,Transfer,7,2024-01-01 12:29:00,Ikeja
+CUST_119_20240101,Transfer,3,2024-01-01 12:33:00,Ikeja
+CUST_95_20240101,Transfer,10,2024-01-01 12:39:00,Ikeja
+CUST_90_20240101,General Inquiry,2,2024-01-01 12:44:00,Ikeja
+CUST_110_20240101,Cash Withdrawal,6,2024-01-01 12:49:00,Ikeja
+CUST_142_20240101,Transfer,9,2024-01-01 12:49:00,Ikeja
+CUST_111_20240101,General Inquiry,5,2024-01-01 12:54:00,Ikeja
+CUST_13_20240101,Cash Withdrawal,6,2024-01-01 12:55:00,Ikeja
+CUST_60_20240101,Cash Withdrawal,6,2024-01-01 12:56:00,Ikeja
+CUST_16_20240101,Cash Withdrawal,4,2024-01-01 12:58:00,Ikeja
+CUST_136_20240101,General Inquiry,4,2024-01-01 12:58:00,Ikeja
+CUST_100_20240101,Cash Withdrawal,5,2024-01-01 13:00:00,Ikeja
+CUST_84_20240101,Cash Withdrawal,4,2024-01-01 13:04:00,Ikeja
+CUST_49_20240101,Transfer,4,2024-01-01 13:06:00,Ikeja
+CUST_71_20240101,General Inquiry,4,2024-01-01 13:09:00,Ikeja
+CUST_6_20240101,Account Opening,33,2024-01-01 13:19:00,Ikeja
+CUST_179_20240101,Transfer,10,2024-01-01 13:19:00,Ikeja
+CUST_70_20240101,Cash Withdrawal,8,2024-01-01 13:21:00,Ikeja
+CUST_22_20240101,General Inquiry,2,2024-01-01 13:22:00,Ikeja
+CUST_37_20240101,Cash Withdrawal,4,2024-01-01 13:22:00,Ikeja
+CUST_150_20240101,Cash Withdrawal,4,2024-01-01 13:22:00,Ikeja
+CUST_85_20240101,Account Opening,16,2024-01-01 13:26:00,Ikeja
+CUST_103_20240101,Cash Withdrawal,7,2024-01-01 13:29:00,Ikeja
+CUST_117_20240101,Account Opening,25,2024-01-01 13:31:00,Ikeja
+CUST_161_20240101,Transfer,8,2024-01-01 13:31:00,Ikeja
+CUST_40_20240101,Account Opening,30,2024-01-01 13:33:00,Ikeja
+CUST_148_20240101,Transfer,9,2024-01-01 13:34:00,Ikeja
+CUST_163_20240101,General Inquiry,5,2024-01-01 13:38:00,Ikeja
+CUST_14_20240101,Cash Withdrawal,4,2024-01-01 13:40:00,Ikeja
+CUST_114_20240101,Transfer,10,2024-01-01 13:40:00,Ikeja
+CUST_9_20240101,Transfer,6,2024-01-01 13:41:00,Ikeja
+CUST_80_20240101,Cash Withdrawal,3,2024-01-01 13:49:00,Ikeja
+CUST_12_20240101,Cash Withdrawal,5,2024-01-01 13:50:00,Ikeja
+CUST_56_20240101,Cash Withdrawal,2,2024-01-01 13:53:00,Ikeja
+CUST_143_20240101,Transfer,7,2024-01-01 13:55:00,Ikeja
+CUST_144_20240101,General Inquiry,5,2024-01-01 14:05:00,Ikeja
+CUST_113_20240101,Cash Withdrawal,4,2024-01-01 14:09:00,Ikeja
+CUST_87_20240101,Transfer,8,2024-01-01 14:18:00,Ikeja
+CUST_167_20240101,Cash Withdrawal,5,2024-01-01 14:21:00,Ikeja
+CUST_3_20240101,Transfer,9,2024-01-01 14:25:00,Ikeja
+CUST_154_20240101,Cash Withdrawal,7,2024-01-01 14:35:00,Ikeja
+CUST_134_20240101,Cash Withdrawal,5,2024-01-01 14:36:00,Ikeja
+CUST_19_20240101,Cash Withdrawal,5,2024-01-01 14:39:00,Ikeja
+CUST_159_20240101,Transfer,4,2024-01-01 14:39:00,Ikeja
+CUST_29_20240101,Cash Withdrawal,5,2024-01-01 14:42:00,Ikeja
+CUST_115_20240101,Account Opening,18,2024-01-01 14:45:00,Ikeja
+CUST_152_20240101,Cash Withdrawal,5,2024-01-01 14:45:00,Ikeja
+CUST_158_20240101,Transfer,7,2024-01-01 14:56:00,Ikeja
+CUST_160_20240101,Cash Withdrawal,3,2024-01-01 14:58:00,Ikeja
+CUST_62_20240101,General Inquiry,5,2024-01-01 14:59:00,Ikeja
+CUST_151_20240101,Cash Withdrawal,7,2024-01-01 15:16:00,Ikeja
+CUST_20_20240101,Loan Application,59,2024-01-01 15:18:00,Ikeja
+CUST_83_20240101,Transfer,5,2024-01-01 15:19:00,Ikeja
+CUST_73_20240101,Transfer,8,2024-01-01 15:25:00,Ikeja
+CUST_97_20240101,Transfer,9,2024-01-01 15:34:00,Ikeja
+CUST_174_20240101,General Inquiry,1,2024-01-01 15:40:00,Ikeja
+CUST_131_20240101,Transfer,5,2024-01-01 15:41:00,Ikeja
+CUST_146_20240101,Transfer,10,2024-01-01 15:45:00,Ikeja
+CUST_165_20240101,Transfer,7,2024-01-01 15:46:00,Ikeja
+CUST_63_20240101,General Inquiry,5,2024-01-01 15:47:00,Ikeja
+CUST_106_20240101,Cash Withdrawal,8,2024-01-01 15:48:00,Ikeja
+CUST_65_20240101,Account Opening,31,2024-01-01 15:51:00,Ikeja
+CUST_173_20240101,Cash Withdrawal,7,2024-01-01 15:54:00,Ikeja
+CUST_74_20240102,Account Opening,35,2024-01-02 08:01:00,Victoria Island
+CUST_16_20240102,Cash Withdrawal,2,2024-01-02 08:09:00,Victoria Island
+CUST_92_20240102,Cash Withdrawal,7,2024-01-02 08:29:00,Victoria Island
+CUST_78_20240102,Transfer,6,2024-01-02 08:37:00,Victoria Island
+CUST_93_20240102,Cash Withdrawal,2,2024-01-02 08:51:00,Victoria Island
+CUST_49_20240102,Cash Withdrawal,4,2024-01-02 08:56:00,Victoria Island
+CUST_38_20240102,Cash Withdrawal,5,2024-01-02 09:01:00,Victoria Island
+CUST_9_20240102,General Inquiry,4,2024-01-02 09:04:00,Victoria Island
+CUST_64_20240102,Transfer,8,2024-01-02 09:05:00,Victoria Island
+CUST_35_20240102,Cash Withdrawal,2,2024-01-02 09:12:00,Victoria Island
+CUST_28_20240102,Cash Withdrawal,7,2024-01-02 09:13:00,Victoria Island
+CUST_10_20240102,Cash Withdrawal,7,2024-01-02 09:14:00,Victoria Island
+CUST_95_20240102,Cash Withdrawal,3,2024-01-02 09:24:00,Victoria Island
+CUST_72_20240102,Cash Withdrawal,6,2024-01-02 09:30:00,Victoria Island
+CUST_7_20240102,Transfer,4,2024-01-02 09:41:00,Victoria Island
+CUST_54_20240102,Account Opening,42,2024-01-02 09:41:00,Victoria Island
+CUST_56_20240102,Cash Withdrawal,6,2024-01-02 09:42:00,Victoria Island
+CUST_23_20240102,Transfer,3,2024-01-02 09:54:00,Victoria Island
+CUST_2_20240102,Account Opening,27,2024-01-02 09:56:00,Victoria Island
+CUST_32_20240102,Cash Withdrawal,8,2024-01-02 09:59:00,Victoria Island
+CUST_44_20240102,Cash Withdrawal,2,2024-01-02 10:00:00,Victoria Island
+CUST_67_20240102,General Inquiry,1,2024-01-02 10:03:00,Victoria Island
+CUST_11_20240102,Account Opening,15,2024-01-02 10:06:00,Victoria Island
+CUST_47_20240102,Cash Withdrawal,6,2024-01-02 10:09:00,Victoria Island
+CUST_62_20240102,Transfer,10,2024-01-02 10:11:00,Victoria Island
+CUST_20_20240102,Cash Withdrawal,2,2024-01-02 10:13:00,Victoria Island
+CUST_63_20240102,Account Opening,36,2024-01-02 10:16:00,Victoria Island
+CUST_13_20240102,Cash Withdrawal,4,2024-01-02 10:20:00,Victoria Island
+CUST_70_20240102,Cash Withdrawal,5,2024-01-02 10:25:00,Victoria Island
+CUST_89_20240102,Transfer,4,2024-01-02 10:32:00,Victoria Island
+CUST_102_20240102,Account Opening,38,2024-01-02 10:32:00,Victoria Island
+CUST_21_20240102,Transfer,9,2024-01-02 10:34:00,Victoria Island
+CUST_83_20240102,Cash Withdrawal,5,2024-01-02 10:34:00,Victoria Island
+CUST_65_20240102,General Inquiry,3,2024-01-02 10:38:00,Victoria Island
+CUST_46_20240102,Loan Application,22,2024-01-02 10:40:00,Victoria Island
+CUST_87_20240102,Account Opening,24,2024-01-02 10:42:00,Victoria Island
+CUST_69_20240102,Account Opening,26,2024-01-02 10:46:00,Victoria Island
+CUST_73_20240102,Cash Withdrawal,5,2024-01-02 10:46:00,Victoria Island
+CUST_14_20240102,General Inquiry,3,2024-01-02 10:51:00,Victoria Island
+CUST_41_20240102,Cash Withdrawal,7,2024-01-02 10:51:00,Victoria Island
+CUST_98_20240102,Transfer,5,2024-01-02 10:54:00,Victoria Island
+CUST_100_20240102,Loan Application,42,2024-01-02 11:00:00,Victoria Island
+CUST_37_20240102,Cash Withdrawal,5,2024-01-02 11:05:00,Victoria Island
+CUST_52_20240102,Cash Withdrawal,5,2024-01-02 11:14:00,Victoria Island
+CUST_77_20240102,Cash Withdrawal,3,2024-01-02 11:14:00,Victoria Island
+CUST_57_20240102,Cash Withdrawal,3,2024-01-02 11:19:00,Victoria Island
+CUST_76_20240102,Account Opening,38,2024-01-02 11:24:00,Victoria Island
+CUST_80_20240102,Transfer,4,2024-01-02 11:34:00,Victoria Island
+CUST_34_20240102,Account Opening,25,2024-01-02 11:37:00,Victoria Island
+CUST_8_20240102,Cash Withdrawal,4,2024-01-02 11:42:00,Victoria Island
+CUST_1_20240102,Account Opening,36,2024-01-02 11:44:00,Victoria Island
+CUST_27_20240102,Cash Withdrawal,8,2024-01-02 11:48:00,Victoria Island
+CUST_51_20240102,Cash Withdrawal,2,2024-01-02 11:57:00,Victoria Island
+CUST_68_20240102,General Inquiry,5,2024-01-02 11:58:00,Victoria Island
+CUST_90_20240102,Cash Withdrawal,2,2024-01-02 11:58:00,Victoria Island
+CUST_15_20240102,Cash Withdrawal,2,2024-01-02 12:13:00,Victoria Island
+CUST_58_20240102,Transfer,8,2024-01-02 12:22:00,Victoria Island
+CUST_94_20240102,Cash Withdrawal,4,2024-01-02 12:26:00,Victoria Island
+CUST_36_20240102,Cash Withdrawal,2,2024-01-02 12:27:00,Victoria Island
+CUST_29_20240102,Cash Withdrawal,5,2024-01-02 12:33:00,Victoria Island
+CUST_24_20240102,Transfer,10,2024-01-02 12:41:00,Victoria Island
+CUST_71_20240102,Cash Withdrawal,7,2024-01-02 12:42:00,Victoria Island
+CUST_17_20240102,Cash Withdrawal,7,2024-01-02 12:46:00,Victoria Island
+CUST_103_20240102,Transfer,6,2024-01-02 12:49:00,Victoria Island
+CUST_79_20240102,Transfer,3,2024-01-02 13:04:00,Victoria Island
+CUST_39_20240102,Account Opening,24,2024-01-02 13:08:00,Victoria Island
+CUST_88_20240102,Account Opening,16,2024-01-02 13:18:00,Victoria Island
+CUST_81_20240102,Account Opening,28,2024-01-02 13:19:00,Victoria Island
+CUST_40_20240102,Transfer,3,2024-01-02 13:24:00,Victoria Island
+CUST_6_20240102,Transfer,3,2024-01-02 13:27:00,Victoria Island
+CUST_53_20240102,Transfer,8,2024-01-02 13:28:00,Victoria Island
+CUST_85_20240102,Cash Withdrawal,2,2024-01-02 13:32:00,Victoria Island
+CUST_82_20240102,Cash Withdrawal,6,2024-01-02 13:33:00,Victoria Island
+CUST_91_20240102,General Inquiry,5,2024-01-02 13:34:00,Victoria Island
+CUST_19_20240102,Transfer,7,2024-01-02 13:37:00,Victoria Island
+CUST_4_20240102,General Inquiry,2,2024-01-02 13:39:00,Victoria Island
+CUST_97_20240102,Account Opening,36,2024-01-02 13:39:00,Victoria Island
+CUST_75_20240102,Transfer,8,2024-01-02 13:40:00,Victoria Island
+CUST_12_20240102,Transfer,9,2024-01-02 13:46:00,Victoria Island
+CUST_101_20240102,Account Opening,39,2024-01-02 13:46:00,Victoria Island
+CUST_22_20240102,General Inquiry,4,2024-01-02 13:50:00,Victoria Island
+CUST_25_20240102,Loan Application,60,2024-01-02 13:51:00,Victoria Island
+CUST_33_20240102,Cash Withdrawal,8,2024-01-02 14:19:00,Victoria Island
+CUST_55_20240102,Cash Withdrawal,7,2024-01-02 14:26:00,Victoria Island
+CUST_26_20240102,General Inquiry,4,2024-01-02 14:29:00,Victoria Island
+CUST_61_20240102,Loan Application,22,2024-01-02 14:30:00,Victoria Island
+CUST_42_20240102,Account Opening,20,2024-01-02 14:34:00,Victoria Island
+CUST_84_20240102,Transfer,3,2024-01-02 14:44:00,Victoria Island
+CUST_18_20240102,Account Opening,33,2024-01-02 14:56:00,Victoria Island
+CUST_96_20240102,Cash Withdrawal,6,2024-01-02 14:57:00,Victoria Island
+CUST_59_20240102,Transfer,9,2024-01-02 14:59:00,Victoria Island
+CUST_45_20240102,Cash Withdrawal,3,2024-01-02 15:00:00,Victoria Island
+CUST_43_20240102,Transfer,3,2024-01-02 15:14:00,Victoria Island
+CUST_86_20240102,Cash Withdrawal,6,2024-01-02 15:15:00,Victoria Island
+CUST_50_20240102,Cash Withdrawal,4,2024-01-02 15:22:00,Victoria Island
+CUST_60_20240102,Account Opening,15,2024-01-02 15:24:00,Victoria Island
+CUST_31_20240102,Cash Withdrawal,5,2024-01-02 15:27:00,Victoria Island
+CUST_3_20240102,Transfer,6,2024-01-02 15:35:00,Victoria Island
+CUST_104_20240102,Account Opening,18,2024-01-02 15:43:00,Victoria Island
+CUST_5_20240102,Transfer,8,2024-01-02 15:44:00,Victoria Island
+CUST_48_20240102,Transfer,10,2024-01-02 15:44:00,Victoria Island
+CUST_66_20240102,Cash Withdrawal,7,2024-01-02 15:44:00,Victoria Island
+CUST_99_20240102,Transfer,4,2024-01-02 15:46:00,Victoria Island
+CUST_30_20240102,Cash Withdrawal,4,2024-01-02 15:55:00,Victoria Island
+CUST_53_20240102,Account Opening,28,2024-01-02 08:05:00,Ikeja
+CUST_18_20240102,Transfer,7,2024-01-02 08:15:00,Ikeja
+CUST_54_20240102,Transfer,8,2024-01-02 08:19:00,Ikeja
+CUST_59_20240102,Account Opening,43,2024-01-02 08:24:00,Ikeja
+CUST_30_20240102,Account Opening,18,2024-01-02 08:33:00,Ikeja
+CUST_77_20240102,Account Opening,30,2024-01-02 08:38:00,Ikeja
+CUST_1_20240102,Cash Withdrawal,4,2024-01-02 09:00:00,Ikeja
+CUST_45_20240102,Cash Withdrawal,3,2024-01-02 09:00:00,Ikeja
+CUST_121_20240102,Cash Withdrawal,8,2024-01-02 09:02:00,Ikeja
+CUST_99_20240102,General Inquiry,5,2024-01-02 09:03:00,Ikeja
+CUST_6_20240102,Account Opening,32,2024-01-02 09:07:00,Ikeja
+CUST_120_20240102,Transfer,7,2024-01-02 09:07:00,Ikeja
+CUST_115_20240102,General Inquiry,5,2024-01-02 09:13:00,Ikeja
+CUST_113_20240102,Loan Application,52,2024-01-02 09:16:00,Ikeja
+CUST_70_20240102,Transfer,4,2024-01-02 09:17:00,Ikeja
+CUST_78_20240102,General Inquiry,4,2024-01-02 09:19:00,Ikeja
+CUST_74_20240102,Cash Withdrawal,8,2024-01-02 09:21:00,Ikeja
+CUST_102_20240102,Account Opening,41,2024-01-02 09:30:00,Ikeja
+CUST_14_20240102,Transfer,4,2024-01-02 09:31:00,Ikeja
+CUST_49_20240102,Transfer,5,2024-01-02 09:32:00,Ikeja
+CUST_64_20240102,General Inquiry,4,2024-01-02 09:33:00,Ikeja
+CUST_37_20240102,Account Opening,40,2024-01-02 09:38:00,Ikeja
+CUST_111_20240102,General Inquiry,2,2024-01-02 09:43:00,Ikeja
+CUST_83_20240102,General Inquiry,3,2024-01-02 09:51:00,Ikeja
+CUST_118_20240102,Cash Withdrawal,7,2024-01-02 09:51:00,Ikeja
+CUST_39_20240102,Transfer,9,2024-01-02 09:54:00,Ikeja
+CUST_116_20240102,Cash Withdrawal,7,2024-01-02 09:58:00,Ikeja
+CUST_94_20240102,Transfer,6,2024-01-02 09:59:00,Ikeja
+CUST_101_20240102,General Inquiry,5,2024-01-02 09:59:00,Ikeja
+CUST_28_20240102,General Inquiry,4,2024-01-02 10:02:00,Ikeja
+CUST_117_20240102,Cash Withdrawal,6,2024-01-02 10:02:00,Ikeja
+CUST_82_20240102,Cash Withdrawal,3,2024-01-02 10:07:00,Ikeja
+CUST_44_20240102,Cash Withdrawal,6,2024-01-02 10:11:00,Ikeja
+CUST_43_20240102,Cash Withdrawal,2,2024-01-02 10:12:00,Ikeja
+CUST_122_20240102,Cash Withdrawal,4,2024-01-02 10:14:00,Ikeja
+CUST_19_20240102,Cash Withdrawal,7,2024-01-02 10:15:00,Ikeja
+CUST_10_20240102,Transfer,3,2024-01-02 10:16:00,Ikeja
+CUST_85_20240102,Cash Withdrawal,5,2024-01-02 10:20:00,Ikeja
+CUST_108_20240102,Cash Withdrawal,3,2024-01-02 10:22:00,Ikeja
+CUST_33_20240102,Account Opening,43,2024-01-02 10:24:00,Ikeja
+CUST_91_20240102,Cash Withdrawal,5,2024-01-02 10:25:00,Ikeja
+CUST_21_20240102,Cash Withdrawal,8,2024-01-02 10:26:00,Ikeja
+CUST_48_20240102,Cash Withdrawal,6,2024-01-02 10:42:00,Ikeja
+CUST_103_20240102,Cash Withdrawal,7,2024-01-02 10:45:00,Ikeja
+CUST_106_20240102,Account Opening,27,2024-01-02 10:51:00,Ikeja
+CUST_7_20240102,Cash Withdrawal,8,2024-01-02 10:53:00,Ikeja
+CUST_61_20240102,Transfer,6,2024-01-02 10:58:00,Ikeja
+CUST_98_20240102,Transfer,7,2024-01-02 11:01:00,Ikeja
+CUST_62_20240102,Cash Withdrawal,3,2024-01-02 11:09:00,Ikeja
+CUST_84_20240102,Cash Withdrawal,5,2024-01-02 11:17:00,Ikeja
+CUST_5_20240102,Account Opening,18,2024-01-02 11:21:00,Ikeja
+CUST_32_20240102,Account Opening,40,2024-01-02 11:21:00,Ikeja
+CUST_110_20240102,Cash Withdrawal,6,2024-01-02 11:24:00,Ikeja
+CUST_92_20240102,General Inquiry,4,2024-01-02 11:28:00,Ikeja
+CUST_2_20240102,Cash Withdrawal,2,2024-01-02 11:33:00,Ikeja
+CUST_87_20240102,Transfer,8,2024-01-02 11:34:00,Ikeja
+CUST_50_20240102,Transfer,8,2024-01-02 11:36:00,Ikeja
+CUST_55_20240102,Cash Withdrawal,7,2024-01-02 11:36:00,Ikeja
+CUST_24_20240102,Cash Withdrawal,2,2024-01-02 11:40:00,Ikeja
+CUST_8_20240102,Account Opening,25,2024-01-02 11:42:00,Ikeja
+CUST_26_20240102,Transfer,8,2024-01-02 11:42:00,Ikeja
+CUST_3_20240102,Cash Withdrawal,8,2024-01-02 11:53:00,Ikeja
+CUST_17_20240102,Transfer,5,2024-01-02 11:54:00,Ikeja
+CUST_42_20240102,Transfer,9,2024-01-02 11:56:00,Ikeja
+CUST_114_20240102,General Inquiry,3,2024-01-02 11:59:00,Ikeja
+CUST_36_20240102,General Inquiry,4,2024-01-02 12:01:00,Ikeja
+CUST_75_20240102,Cash Withdrawal,2,2024-01-02 12:05:00,Ikeja
+CUST_71_20240102,General Inquiry,5,2024-01-02 12:09:00,Ikeja
+CUST_65_20240102,Cash Withdrawal,8,2024-01-02 12:17:00,Ikeja
+CUST_105_20240102,Loan Application,29,2024-01-02 12:23:00,Ikeja
+CUST_23_20240102,Cash Withdrawal,2,2024-01-02 12:27:00,Ikeja
+CUST_97_20240102,General Inquiry,5,2024-01-02 12:28:00,Ikeja
+CUST_16_20240102,General Inquiry,2,2024-01-02 12:36:00,Ikeja
+CUST_34_20240102,Cash Withdrawal,6,2024-01-02 12:40:00,Ikeja
+CUST_47_20240102,General Inquiry,5,2024-01-02 12:51:00,Ikeja
+CUST_88_20240102,General Inquiry,2,2024-01-02 12:52:00,Ikeja
+CUST_29_20240102,Cash Withdrawal,5,2024-01-02 12:53:00,Ikeja
+CUST_41_20240102,Account Opening,19,2024-01-02 12:55:00,Ikeja
+CUST_11_20240102,General Inquiry,1,2024-01-02 13:00:00,Ikeja
+CUST_80_20240102,General Inquiry,4,2024-01-02 13:03:00,Ikeja
+CUST_90_20240102,Transfer,10,2024-01-02 13:05:00,Ikeja
+CUST_95_20240102,Cash Withdrawal,3,2024-01-02 13:08:00,Ikeja
+CUST_15_20240102,Cash Withdrawal,4,2024-01-02 13:12:00,Ikeja
+CUST_9_20240102,Cash Withdrawal,7,2024-01-02 13:13:00,Ikeja
+CUST_56_20240102,Cash Withdrawal,7,2024-01-02 13:14:00,Ikeja
+CUST_31_20240102,Account Opening,27,2024-01-02 13:15:00,Ikeja
+CUST_67_20240102,Account Opening,34,2024-01-02 13:15:00,Ikeja
+CUST_89_20240102,Transfer,3,2024-01-02 13:15:00,Ikeja
+CUST_68_20240102,Transfer,5,2024-01-02 13:16:00,Ikeja
+CUST_46_20240102,Account Opening,22,2024-01-02 13:17:00,Ikeja
+CUST_52_20240102,Cash Withdrawal,4,2024-01-02 13:17:00,Ikeja
+CUST_104_20240102,Cash Withdrawal,3,2024-01-02 13:18:00,Ikeja
+CUST_27_20240102,Transfer,7,2024-01-02 13:25:00,Ikeja
+CUST_13_20240102,Cash Withdrawal,8,2024-01-02 13:37:00,Ikeja
+CUST_40_20240102,Account Opening,37,2024-01-02 13:41:00,Ikeja
+CUST_76_20240102,Account Opening,35,2024-01-02 13:46:00,Ikeja
+CUST_12_20240102,Cash Withdrawal,3,2024-01-02 13:50:00,Ikeja
+CUST_93_20240102,Cash Withdrawal,7,2024-01-02 13:54:00,Ikeja
+CUST_100_20240102,Transfer,5,2024-01-02 13:56:00,Ikeja
+CUST_35_20240102,Cash Withdrawal,4,2024-01-02 14:02:00,Ikeja
+CUST_22_20240102,Account Opening,20,2024-01-02 14:09:00,Ikeja
+CUST_4_20240102,Transfer,7,2024-01-02 14:14:00,Ikeja
+CUST_112_20240102,Cash Withdrawal,8,2024-01-02 14:14:00,Ikeja
+CUST_25_20240102,Cash Withdrawal,6,2024-01-02 14:18:00,Ikeja
+CUST_38_20240102,General Inquiry,1,2024-01-02 14:33:00,Ikeja
+CUST_58_20240102,Transfer,9,2024-01-02 14:35:00,Ikeja
+CUST_73_20240102,Transfer,6,2024-01-02 14:35:00,Ikeja
+CUST_81_20240102,General Inquiry,3,2024-01-02 14:36:00,Ikeja
+CUST_86_20240102,Cash Withdrawal,5,2024-01-02 14:36:00,Ikeja
+CUST_20_20240102,Transfer,4,2024-01-02 14:39:00,Ikeja
+CUST_66_20240102,Cash Withdrawal,4,2024-01-02 14:41:00,Ikeja
+CUST_69_20240102,General Inquiry,4,2024-01-02 14:58:00,Ikeja
+CUST_60_20240102,General Inquiry,5,2024-01-02 14:59:00,Ikeja
+CUST_109_20240102,Transfer,5,2024-01-02 15:06:00,Ikeja
+CUST_51_20240102,General Inquiry,3,2024-01-02 15:08:00,Ikeja
+CUST_79_20240102,Account Opening,35,2024-01-02 15:10:00,Ikeja
+CUST_96_20240102,Loan Application,36,2024-01-02 15:10:00,Ikeja
+CUST_63_20240102,Cash Withdrawal,3,2024-01-02 15:14:00,Ikeja
+CUST_57_20240102,Cash Withdrawal,7,2024-01-02 15:23:00,Ikeja
+CUST_72_20240102,Cash Withdrawal,3,2024-01-02 15:33:00,Ikeja
+CUST_107_20240102,Cash Withdrawal,8,2024-01-02 15:36:00,Ikeja
+CUST_119_20240102,Account Opening,15,2024-01-02 15:54:00,Ikeja
+CUST_12_20240103,Transfer,5,2024-01-03 08:06:00,Victoria Island
+CUST_60_20240103,Transfer,5,2024-01-03 08:13:00,Victoria Island
+CUST_39_20240103,Cash Withdrawal,3,2024-01-03 08:21:00,Victoria Island
+CUST_1_20240103,General Inquiry,4,2024-01-03 08:27:00,Victoria Island
+CUST_36_20240103,Transfer,10,2024-01-03 08:35:00,Victoria Island
+CUST_30_20240103,General Inquiry,3,2024-01-03 09:00:00,Victoria Island
+CUST_13_20240103,General Inquiry,4,2024-01-03 09:01:00,Victoria Island
+CUST_56_20240103,Loan Application,48,2024-01-03 09:06:00,Victoria Island
+CUST_93_20240103,Loan Application,53,2024-01-03 09:06:00,Victoria Island
+CUST_58_20240103,Cash Withdrawal,3,2024-01-03 09:16:00,Victoria Island
+CUST_9_20240103,Transfer,9,2024-01-03 09:20:00,Victoria Island
+CUST_14_20240103,Transfer,9,2024-01-03 09:30:00,Victoria Island
+CUST_21_20240103,Loan Application,36,2024-01-03 09:33:00,Victoria Island
+CUST_74_20240103,Cash Withdrawal,2,2024-01-03 09:37:00,Victoria Island
+CUST_22_20240103,Transfer,7,2024-01-03 09:39:00,Victoria Island
+CUST_84_20240103,Cash Withdrawal,4,2024-01-03 09:40:00,Victoria Island
+CUST_32_20240103,Transfer,7,2024-01-03 09:41:00,Victoria Island
+CUST_80_20240103,Cash Withdrawal,3,2024-01-03 09:43:00,Victoria Island
+CUST_51_20240103,Account Opening,16,2024-01-03 09:45:00,Victoria Island
+CUST_42_20240103,Cash Withdrawal,4,2024-01-03 09:58:00,Victoria Island
+CUST_29_20240103,Cash Withdrawal,4,2024-01-03 10:05:00,Victoria Island
+CUST_79_20240103,Transfer,7,2024-01-03 10:05:00,Victoria Island
+CUST_76_20240103,Loan Application,23,2024-01-03 10:06:00,Victoria Island
+CUST_62_20240103,General Inquiry,2,2024-01-03 10:07:00,Victoria Island
+CUST_7_20240103,General Inquiry,1,2024-01-03 10:11:00,Victoria Island
+CUST_41_20240103,Transfer,8,2024-01-03 10:22:00,Victoria Island
+CUST_52_20240103,Transfer,6,2024-01-03 10:34:00,Victoria Island
+CUST_43_20240103,General Inquiry,4,2024-01-03 10:38:00,Victoria Island
+CUST_91_20240103,Transfer,9,2024-01-03 10:41:00,Victoria Island
+CUST_83_20240103,Cash Withdrawal,6,2024-01-03 10:42:00,Victoria Island
+CUST_67_20240103,Account Opening,15,2024-01-03 10:44:00,Victoria Island
+CUST_4_20240103,Cash Withdrawal,6,2024-01-03 10:45:00,Victoria Island
+CUST_16_20240103,Transfer,5,2024-01-03 10:45:00,Victoria Island
+CUST_27_20240103,Transfer,9,2024-01-03 10:45:00,Victoria Island
+CUST_17_20240103,General Inquiry,3,2024-01-03 10:52:00,Victoria Island
+CUST_90_20240103,Transfer,5,2024-01-03 10:52:00,Victoria Island
+CUST_20_20240103,Cash Withdrawal,4,2024-01-03 10:53:00,Victoria Island
+CUST_40_20240103,Account Opening,22,2024-01-03 10:53:00,Victoria Island
+CUST_81_20240103,Transfer,5,2024-01-03 10:54:00,Victoria Island
+CUST_45_20240103,Cash Withdrawal,2,2024-01-03 10:56:00,Victoria Island
+CUST_3_20240103,Cash Withdrawal,6,2024-01-03 10:57:00,Victoria Island
+CUST_38_20240103,Transfer,6,2024-01-03 11:00:00,Victoria Island
+CUST_35_20240103,General Inquiry,1,2024-01-03 11:02:00,Victoria Island
+CUST_64_20240103,Transfer,7,2024-01-03 11:02:00,Victoria Island
+CUST_88_20240103,Account Opening,32,2024-01-03 11:04:00,Victoria Island
+CUST_97_20240103,Cash Withdrawal,7,2024-01-03 11:05:00,Victoria Island
+CUST_85_20240103,Loan Application,45,2024-01-03 11:16:00,Victoria Island
+CUST_49_20240103,General Inquiry,1,2024-01-03 11:17:00,Victoria Island
+CUST_19_20240103,Transfer,5,2024-01-03 11:23:00,Victoria Island
+CUST_26_20240103,Cash Withdrawal,8,2024-01-03 11:23:00,Victoria Island
+CUST_95_20240103,Cash Withdrawal,5,2024-01-03 11:34:00,Victoria Island
+CUST_44_20240103,Transfer,3,2024-01-03 11:37:00,Victoria Island
+CUST_46_20240103,Cash Withdrawal,2,2024-01-03 11:39:00,Victoria Island
+CUST_47_20240103,Transfer,8,2024-01-03 11:39:00,Victoria Island
+CUST_82_20240103,Cash Withdrawal,4,2024-01-03 11:48:00,Victoria Island
+CUST_48_20240103,Cash Withdrawal,2,2024-01-03 11:53:00,Victoria Island
+CUST_66_20240103,Account Opening,32,2024-01-03 11:53:00,Victoria Island
+CUST_75_20240103,Transfer,6,2024-01-03 12:05:00,Victoria Island
+CUST_50_20240103,Cash Withdrawal,8,2024-01-03 12:14:00,Victoria Island
+CUST_53_20240103,Transfer,5,2024-01-03 12:23:00,Victoria Island
+CUST_65_20240103,Transfer,5,2024-01-03 12:26:00,Victoria Island
+CUST_15_20240103,General Inquiry,4,2024-01-03 12:27:00,Victoria Island
+CUST_8_20240103,General Inquiry,1,2024-01-03 12:34:00,Victoria Island
+CUST_98_20240103,Account Opening,23,2024-01-03 12:39:00,Victoria Island
+CUST_6_20240103,Cash Withdrawal,4,2024-01-03 12:50:00,Victoria Island
+CUST_28_20240103,Cash Withdrawal,5,2024-01-03 13:00:00,Victoria Island
+CUST_54_20240103,Account Opening,18,2024-01-03 13:03:00,Victoria Island
+CUST_100_20240103,General Inquiry,4,2024-01-03 13:05:00,Victoria Island
+CUST_92_20240103,General Inquiry,5,2024-01-03 13:06:00,Victoria Island
+CUST_11_20240103,Cash Withdrawal,2,2024-01-03 13:08:00,Victoria Island
+CUST_71_20240103,Cash Withdrawal,6,2024-01-03 13:13:00,Victoria Island
+CUST_24_20240103,Cash Withdrawal,7,2024-01-03 13:17:00,Victoria Island
+CUST_33_20240103,Cash Withdrawal,7,2024-01-03 13:17:00,Victoria Island
+CUST_25_20240103,Cash Withdrawal,7,2024-01-03 13:21:00,Victoria Island
+CUST_31_20240103,Account Opening,31,2024-01-03 13:26:00,Victoria Island
+CUST_96_20240103,Transfer,6,2024-01-03 13:33:00,Victoria Island
+CUST_63_20240103,Cash Withdrawal,5,2024-01-03 13:46:00,Victoria Island
+CUST_87_20240103,Cash Withdrawal,8,2024-01-03 13:57:00,Victoria Island
+CUST_70_20240103,General Inquiry,4,2024-01-03 13:59:00,Victoria Island
+CUST_57_20240103,General Inquiry,4,2024-01-03 14:01:00,Victoria Island
+CUST_77_20240103,Account Opening,24,2024-01-03 14:01:00,Victoria Island
+CUST_37_20240103,Cash Withdrawal,5,2024-01-03 14:03:00,Victoria Island
+CUST_61_20240103,Cash Withdrawal,7,2024-01-03 14:15:00,Victoria Island
+CUST_86_20240103,Account Opening,36,2024-01-03 14:17:00,Victoria Island
+CUST_89_20240103,General Inquiry,2,2024-01-03 14:20:00,Victoria Island
+CUST_72_20240103,Cash Withdrawal,2,2024-01-03 14:23:00,Victoria Island
+CUST_2_20240103,Cash Withdrawal,5,2024-01-03 14:33:00,Victoria Island
+CUST_59_20240103,Account Opening,25,2024-01-03 14:38:00,Victoria Island
+CUST_99_20240103,General Inquiry,3,2024-01-03 14:38:00,Victoria Island
+CUST_34_20240103,Cash Withdrawal,2,2024-01-03 14:42:00,Victoria Island
+CUST_69_20240103,Cash Withdrawal,8,2024-01-03 14:42:00,Victoria Island
+CUST_73_20240103,Cash Withdrawal,4,2024-01-03 14:50:00,Victoria Island
+CUST_10_20240103,Transfer,4,2024-01-03 14:57:00,Victoria Island
+CUST_23_20240103,Account Opening,41,2024-01-03 15:13:00,Victoria Island
+CUST_5_20240103,Transfer,8,2024-01-03 15:17:00,Victoria Island
+CUST_18_20240103,Cash Withdrawal,7,2024-01-03 15:22:00,Victoria Island
+CUST_94_20240103,Cash Withdrawal,2,2024-01-03 15:39:00,Victoria Island
+CUST_55_20240103,Loan Application,55,2024-01-03 15:51:00,Victoria Island
+CUST_68_20240103,Cash Withdrawal,6,2024-01-03 15:51:00,Victoria Island
+CUST_78_20240103,Cash Withdrawal,5,2024-01-03 15:52:00,Victoria Island
+CUST_47_20240103,Transfer,5,2024-01-03 08:56:00,Ikeja
+CUST_15_20240103,Cash Withdrawal,2,2024-01-03 09:04:00,Ikeja
+CUST_31_20240103,Transfer,9,2024-01-03 09:12:00,Ikeja
+CUST_41_20240103,Cash Withdrawal,6,2024-01-03 09:13:00,Ikeja
+CUST_21_20240103,Cash Withdrawal,8,2024-01-03 09:20:00,Ikeja
+CUST_57_20240103,Account Opening,27,2024-01-03 09:31:00,Ikeja
+CUST_48_20240103,Transfer,10,2024-01-03 09:39:00,Ikeja
+CUST_32_20240103,Cash Withdrawal,4,2024-01-03 09:51:00,Ikeja
+CUST_64_20240103,Cash Withdrawal,5,2024-01-03 09:53:00,Ikeja
+CUST_68_20240103,Cash Withdrawal,6,2024-01-03 09:58:00,Ikeja
+CUST_40_20240103,Transfer,7,2024-01-03 10:00:00,Ikeja
+CUST_49_20240103,Cash Withdrawal,4,2024-01-03 10:01:00,Ikeja
+CUST_69_20240103,Cash Withdrawal,6,2024-01-03 10:08:00,Ikeja
+CUST_55_20240103,Cash Withdrawal,2,2024-01-03 10:12:00,Ikeja
+CUST_14_20240103,Account Opening,39,2024-01-03 10:13:00,Ikeja
+CUST_42_20240103,General Inquiry,1,2024-01-03 10:15:00,Ikeja
+CUST_29_20240103,Loan Application,60,2024-01-03 10:22:00,Ikeja
+CUST_6_20240103,Cash Withdrawal,5,2024-01-03 10:26:00,Ikeja
+CUST_58_20240103,Cash Withdrawal,6,2024-01-03 10:27:00,Ikeja
+CUST_1_20240103,Transfer,5,2024-01-03 10:35:00,Ikeja
+CUST_36_20240103,Transfer,4,2024-01-03 10:39:00,Ikeja
+CUST_11_20240103,Cash Withdrawal,6,2024-01-03 10:46:00,Ikeja
+CUST_20_20240103,Cash Withdrawal,2,2024-01-03 10:48:00,Ikeja
+CUST_43_20240103,Cash Withdrawal,5,2024-01-03 10:52:00,Ikeja
+CUST_8_20240103,Cash Withdrawal,8,2024-01-03 10:57:00,Ikeja
+CUST_3_20240103,Cash Withdrawal,8,2024-01-03 10:58:00,Ikeja
+CUST_17_20240103,Cash Withdrawal,8,2024-01-03 10:59:00,Ikeja
+CUST_46_20240103,General Inquiry,3,2024-01-03 10:59:00,Ikeja
+CUST_28_20240103,Account Opening,27,2024-01-03 11:01:00,Ikeja
+CUST_65_20240103,General Inquiry,2,2024-01-03 11:01:00,Ikeja
+CUST_2_20240103,Transfer,9,2024-01-03 11:11:00,Ikeja
+CUST_10_20240103,Transfer,10,2024-01-03 11:11:00,Ikeja
+CUST_73_20240103,Account Opening,33,2024-01-03 11:13:00,Ikeja
+CUST_18_20240103,Transfer,3,2024-01-03 11:14:00,Ikeja
+CUST_66_20240103,Account Opening,24,2024-01-03 11:19:00,Ikeja
+CUST_39_20240103,General Inquiry,2,2024-01-03 11:22:00,Ikeja
+CUST_13_20240103,Cash Withdrawal,8,2024-01-03 11:24:00,Ikeja
+CUST_5_20240103,Transfer,9,2024-01-03 11:28:00,Ikeja
+CUST_23_20240103,General Inquiry,2,2024-01-03 11:36:00,Ikeja
+CUST_27_20240103,Cash Withdrawal,3,2024-01-03 11:40:00,Ikeja
+CUST_26_20240103,Account Opening,34,2024-01-03 12:00:00,Ikeja
+CUST_60_20240103,Account Opening,30,2024-01-03 12:11:00,Ikeja
+CUST_72_20240103,General Inquiry,1,2024-01-03 12:11:00,Ikeja
+CUST_67_20240103,Transfer,4,2024-01-03 12:31:00,Ikeja
+CUST_38_20240103,General Inquiry,4,2024-01-03 12:50:00,Ikeja
+CUST_50_20240103,Transfer,6,2024-01-03 12:58:00,Ikeja
+CUST_24_20240103,Cash Withdrawal,6,2024-01-03 13:16:00,Ikeja
+CUST_35_20240103,Cash Withdrawal,8,2024-01-03 13:23:00,Ikeja
+CUST_70_20240103,General Inquiry,1,2024-01-03 13:28:00,Ikeja
+CUST_71_20240103,Transfer,5,2024-01-03 13:32:00,Ikeja
+CUST_53_20240103,General Inquiry,1,2024-01-03 13:33:00,Ikeja
+CUST_19_20240103,General Inquiry,1,2024-01-03 13:35:00,Ikeja
+CUST_9_20240103,Transfer,3,2024-01-03 13:39:00,Ikeja
+CUST_54_20240103,Cash Withdrawal,5,2024-01-03 13:43:00,Ikeja
+CUST_25_20240103,Account Opening,45,2024-01-03 13:47:00,Ikeja
+CUST_33_20240103,Cash Withdrawal,7,2024-01-03 14:13:00,Ikeja
+CUST_45_20240103,General Inquiry,5,2024-01-03 14:17:00,Ikeja
+CUST_52_20240103,Account Opening,45,2024-01-03 14:23:00,Ikeja
+CUST_12_20240103,Account Opening,23,2024-01-03 14:37:00,Ikeja
+CUST_59_20240103,Cash Withdrawal,2,2024-01-03 14:40:00,Ikeja
+CUST_4_20240103,Cash Withdrawal,8,2024-01-03 14:45:00,Ikeja
+CUST_34_20240103,Account Opening,28,2024-01-03 14:49:00,Ikeja
+CUST_7_20240103,Cash Withdrawal,5,2024-01-03 14:53:00,Ikeja
+CUST_16_20240103,General Inquiry,2,2024-01-03 14:53:00,Ikeja
+CUST_37_20240103,Account Opening,36,2024-01-03 14:59:00,Ikeja
+CUST_61_20240103,Transfer,3,2024-01-03 15:06:00,Ikeja
+CUST_56_20240103,Transfer,3,2024-01-03 15:10:00,Ikeja
+CUST_62_20240103,Cash Withdrawal,5,2024-01-03 15:16:00,Ikeja
+CUST_51_20240103,Transfer,8,2024-01-03 15:21:00,Ikeja
+CUST_30_20240103,Cash Withdrawal,5,2024-01-03 15:23:00,Ikeja
+CUST_22_20240103,Cash Withdrawal,2,2024-01-03 15:29:00,Ikeja
+CUST_63_20240103,Cash Withdrawal,4,2024-01-03 15:37:00,Ikeja
+CUST_44_20240103,Cash Withdrawal,3,2024-01-03 15:39:00,Ikeja
+CUST_55_20240104,Loan Application,41,2024-01-04 08:14:00,Victoria Island
+CUST_35_20240104,Cash Withdrawal,3,2024-01-04 08:58:00,Victoria Island
+CUST_25_20240104,Transfer,6,2024-01-04 09:02:00,Victoria Island
+CUST_9_20240104,General Inquiry,3,2024-01-04 09:04:00,Victoria Island
+CUST_16_20240104,Cash Withdrawal,5,2024-01-04 09:17:00,Victoria Island
+CUST_54_20240104,General Inquiry,1,2024-01-04 09:36:00,Victoria Island
+CUST_36_20240104,Transfer,8,2024-01-04 09:53:00,Victoria Island
+CUST_63_20240104,Cash Withdrawal,8,2024-01-04 09:55:00,Victoria Island
+CUST_17_20240104,Cash Withdrawal,4,2024-01-04 09:59:00,Victoria Island
+CUST_41_20240104,Transfer,10,2024-01-04 10:00:00,Victoria Island
+CUST_32_20240104,Account Opening,41,2024-01-04 10:04:00,Victoria Island
+CUST_3_20240104,Transfer,5,2024-01-04 10:12:00,Victoria Island
+CUST_12_20240104,Transfer,8,2024-01-04 10:12:00,Victoria Island
+CUST_20_20240104,Cash Withdrawal,8,2024-01-04 10:12:00,Victoria Island
+CUST_53_20240104,General Inquiry,4,2024-01-04 10:15:00,Victoria Island
+CUST_50_20240104,Account Opening,26,2024-01-04 10:23:00,Victoria Island
+CUST_60_20240104,Account Opening,26,2024-01-04 10:23:00,Victoria Island
+CUST_64_20240104,Account Opening,37,2024-01-04 10:24:00,Victoria Island
+CUST_39_20240104,Loan Application,37,2024-01-04 10:27:00,Victoria Island
+CUST_47_20240104,Account Opening,20,2024-01-04 10:39:00,Victoria Island
+CUST_40_20240104,Transfer,6,2024-01-04 10:42:00,Victoria Island
+CUST_14_20240104,Transfer,6,2024-01-04 10:44:00,Victoria Island
+CUST_18_20240104,General Inquiry,2,2024-01-04 10:46:00,Victoria Island
+CUST_34_20240104,Cash Withdrawal,5,2024-01-04 10:54:00,Victoria Island
+CUST_52_20240104,Cash Withdrawal,6,2024-01-04 10:58:00,Victoria Island
+CUST_22_20240104,Cash Withdrawal,6,2024-01-04 11:03:00,Victoria Island
+CUST_38_20240104,Cash Withdrawal,5,2024-01-04 11:03:00,Victoria Island
+CUST_58_20240104,Transfer,3,2024-01-04 11:10:00,Victoria Island
+CUST_61_20240104,General Inquiry,4,2024-01-04 11:22:00,Victoria Island
+CUST_48_20240104,Transfer,6,2024-01-04 11:24:00,Victoria Island
+CUST_51_20240104,Cash Withdrawal,5,2024-01-04 11:32:00,Victoria Island
+CUST_44_20240104,Transfer,6,2024-01-04 11:43:00,Victoria Island
+CUST_24_20240104,Cash Withdrawal,3,2024-01-04 11:46:00,Victoria Island
+CUST_45_20240104,Account Opening,20,2024-01-04 11:54:00,Victoria Island
+CUST_49_20240104,Account Opening,24,2024-01-04 11:55:00,Victoria Island
+CUST_29_20240104,Cash Withdrawal,6,2024-01-04 11:59:00,Victoria Island
+CUST_8_20240104,Transfer,4,2024-01-04 12:17:00,Victoria Island
+CUST_1_20240104,Transfer,5,2024-01-04 12:27:00,Victoria Island
+CUST_7_20240104,Cash Withdrawal,2,2024-01-04 12:27:00,Victoria Island
+CUST_59_20240104,Loan Application,25,2024-01-04 12:33:00,Victoria Island
+CUST_27_20240104,Account Opening,23,2024-01-04 12:34:00,Victoria Island
+CUST_33_20240104,Cash Withdrawal,3,2024-01-04 12:39:00,Victoria Island
+CUST_2_20240104,Loan Application,41,2024-01-04 12:49:00,Victoria Island
+CUST_21_20240104,Cash Withdrawal,2,2024-01-04 13:03:00,Victoria Island
+CUST_19_20240104,General Inquiry,3,2024-01-04 13:08:00,Victoria Island
+CUST_37_20240104,Transfer,9,2024-01-04 13:14:00,Victoria Island
+CUST_23_20240104,Cash Withdrawal,2,2024-01-04 13:15:00,Victoria Island
+CUST_4_20240104,General Inquiry,3,2024-01-04 13:26:00,Victoria Island
+CUST_10_20240104,Cash Withdrawal,5,2024-01-04 13:29:00,Victoria Island
+CUST_26_20240104,General Inquiry,2,2024-01-04 13:30:00,Victoria Island
+CUST_46_20240104,Transfer,8,2024-01-04 13:33:00,Victoria Island
+CUST_31_20240104,Transfer,3,2024-01-04 13:44:00,Victoria Island
+CUST_6_20240104,Cash Withdrawal,5,2024-01-04 13:58:00,Victoria Island
+CUST_62_20240104,General Inquiry,2,2024-01-04 14:04:00,Victoria Island
+CUST_5_20240104,Cash Withdrawal,8,2024-01-04 14:09:00,Victoria Island
+CUST_30_20240104,Account Opening,40,2024-01-04 14:23:00,Victoria Island
+CUST_57_20240104,General Inquiry,5,2024-01-04 14:37:00,Victoria Island
+CUST_65_20240104,Loan Application,50,2024-01-04 14:37:00,Victoria Island
+CUST_11_20240104,Cash Withdrawal,4,2024-01-04 14:51:00,Victoria Island
+CUST_15_20240104,Cash Withdrawal,7,2024-01-04 15:11:00,Victoria Island
+CUST_28_20240104,Cash Withdrawal,7,2024-01-04 15:13:00,Victoria Island
+CUST_43_20240104,Cash Withdrawal,3,2024-01-04 15:20:00,Victoria Island
+CUST_13_20240104,Cash Withdrawal,6,2024-01-04 15:40:00,Victoria Island
+CUST_56_20240104,Account Opening,15,2024-01-04 15:43:00,Victoria Island
+CUST_42_20240104,Account Opening,26,2024-01-04 15:44:00,Victoria Island
+CUST_3_20240104,Account Opening,25,2024-01-04 08:05:00,Ikeja
+CUST_43_20240104,Cash Withdrawal,6,2024-01-04 08:15:00,Ikeja
+CUST_24_20240104,Account Opening,28,2024-01-04 08:16:00,Ikeja
+CUST_92_20240104,Account Opening,23,2024-01-04 08:17:00,Ikeja
+CUST_54_20240104,Transfer,8,2024-01-04 08:44:00,Ikeja
+CUST_7_20240104,General Inquiry,4,2024-01-04 09:06:00,Ikeja
+CUST_96_20240104,Transfer,9,2024-01-04 09:08:00,Ikeja
+CUST_26_20240104,General Inquiry,3,2024-01-04 09:09:00,Ikeja
+CUST_60_20240104,Cash Withdrawal,3,2024-01-04 09:12:00,Ikeja
+CUST_50_20240104,Loan Application,36,2024-01-04 09:16:00,Ikeja
+CUST_83_20240104,Cash Withdrawal,4,2024-01-04 09:16:00,Ikeja
+CUST_19_20240104,Cash Withdrawal,2,2024-01-04 09:17:00,Ikeja
+CUST_36_20240104,Loan Application,43,2024-01-04 09:22:00,Ikeja
+CUST_46_20240104,Transfer,8,2024-01-04 09:23:00,Ikeja
+CUST_25_20240104,Transfer,10,2024-01-04 09:28:00,Ikeja
+CUST_28_20240104,Account Opening,33,2024-01-04 09:47:00,Ikeja
+CUST_40_20240104,General Inquiry,5,2024-01-04 09:47:00,Ikeja
+CUST_30_20240104,Cash Withdrawal,4,2024-01-04 09:51:00,Ikeja
+CUST_85_20240104,Cash Withdrawal,5,2024-01-04 09:51:00,Ikeja
+CUST_20_20240104,Account Opening,39,2024-01-04 09:58:00,Ikeja
+CUST_71_20240104,General Inquiry,2,2024-01-04 10:04:00,Ikeja
+CUST_56_20240104,Cash Withdrawal,4,2024-01-04 10:05:00,Ikeja
+CUST_61_20240104,Cash Withdrawal,3,2024-01-04 10:08:00,Ikeja
+CUST_31_20240104,Cash Withdrawal,7,2024-01-04 10:10:00,Ikeja
+CUST_42_20240104,Account Opening,35,2024-01-04 10:11:00,Ikeja
+CUST_27_20240104,Cash Withdrawal,6,2024-01-04 10:15:00,Ikeja
+CUST_79_20240104,Account Opening,29,2024-01-04 10:15:00,Ikeja
+CUST_44_20240104,Transfer,8,2024-01-04 10:18:00,Ikeja
+CUST_89_20240104,Cash Withdrawal,8,2024-01-04 10:19:00,Ikeja
+CUST_53_20240104,General Inquiry,4,2024-01-04 10:20:00,Ikeja
+CUST_80_20240104,Account Opening,44,2024-01-04 10:20:00,Ikeja
+CUST_32_20240104,Transfer,4,2024-01-04 10:22:00,Ikeja
+CUST_49_20240104,Cash Withdrawal,4,2024-01-04 10:26:00,Ikeja
+CUST_16_20240104,Cash Withdrawal,6,2024-01-04 10:27:00,Ikeja
+CUST_73_20240104,General Inquiry,2,2024-01-04 10:32:00,Ikeja
+CUST_41_20240104,Cash Withdrawal,8,2024-01-04 10:36:00,Ikeja
+CUST_18_20240104,Transfer,9,2024-01-04 10:38:00,Ikeja
+CUST_34_20240104,General Inquiry,5,2024-01-04 10:39:00,Ikeja
+CUST_95_20240104,Cash Withdrawal,4,2024-01-04 10:41:00,Ikeja
+CUST_23_20240104,Account Opening,39,2024-01-04 10:47:00,Ikeja
+CUST_17_20240104,Cash Withdrawal,7,2024-01-04 10:58:00,Ikeja
+CUST_69_20240104,Transfer,8,2024-01-04 11:03:00,Ikeja
+CUST_38_20240104,Transfer,6,2024-01-04 11:04:00,Ikeja
+CUST_82_20240104,General Inquiry,5,2024-01-04 11:06:00,Ikeja
+CUST_29_20240104,General Inquiry,2,2024-01-04 11:21:00,Ikeja
+CUST_75_20240104,Transfer,6,2024-01-04 11:24:00,Ikeja
+CUST_87_20240104,Transfer,8,2024-01-04 11:28:00,Ikeja
+CUST_94_20240104,Cash Withdrawal,8,2024-01-04 11:29:00,Ikeja
+CUST_88_20240104,General Inquiry,5,2024-01-04 11:33:00,Ikeja
+CUST_10_20240104,Cash Withdrawal,6,2024-01-04 11:37:00,Ikeja
+CUST_58_20240104,Account Opening,35,2024-01-04 11:39:00,Ikeja
+CUST_8_20240104,Account Opening,40,2024-01-04 11:41:00,Ikeja
+CUST_45_20240104,Transfer,6,2024-01-04 11:48:00,Ikeja
+CUST_66_20240104,Transfer,5,2024-01-04 11:50:00,Ikeja
+CUST_6_20240104,Cash Withdrawal,4,2024-01-04 11:54:00,Ikeja
+CUST_52_20240104,General Inquiry,3,2024-01-04 11:57:00,Ikeja
+CUST_78_20240104,Cash Withdrawal,8,2024-01-04 11:58:00,Ikeja
+CUST_76_20240104,Cash Withdrawal,8,2024-01-04 11:59:00,Ikeja
+CUST_68_20240104,Cash Withdrawal,7,2024-01-04 12:02:00,Ikeja
+CUST_21_20240104,General Inquiry,5,2024-01-04 12:04:00,Ikeja
+CUST_9_20240104,Transfer,7,2024-01-04 12:28:00,Ikeja
+CUST_84_20240104,General Inquiry,1,2024-01-04 12:45:00,Ikeja
+CUST_39_20240104,Transfer,8,2024-01-04 13:02:00,Ikeja
+CUST_70_20240104,Cash Withdrawal,8,2024-01-04 13:05:00,Ikeja
+CUST_90_20240104,Transfer,10,2024-01-04 13:05:00,Ikeja
+CUST_13_20240104,Cash Withdrawal,4,2024-01-04 13:10:00,Ikeja
+CUST_37_20240104,General Inquiry,4,2024-01-04 13:14:00,Ikeja
+CUST_12_20240104,Account Opening,43,2024-01-04 13:16:00,Ikeja
+CUST_81_20240104,Cash Withdrawal,8,2024-01-04 13:17:00,Ikeja
+CUST_64_20240104,Transfer,6,2024-01-04 13:20:00,Ikeja
+CUST_74_20240104,Loan Application,41,2024-01-04 13:28:00,Ikeja
+CUST_65_20240104,General Inquiry,3,2024-01-04 13:30:00,Ikeja
+CUST_67_20240104,Cash Withdrawal,4,2024-01-04 13:39:00,Ikeja
+CUST_15_20240104,Loan Application,43,2024-01-04 13:44:00,Ikeja
+CUST_35_20240104,Transfer,6,2024-01-04 13:48:00,Ikeja
+CUST_63_20240104,Cash Withdrawal,2,2024-01-04 13:52:00,Ikeja
+CUST_22_20240104,Cash Withdrawal,5,2024-01-04 13:53:00,Ikeja
+CUST_4_20240104,General Inquiry,2,2024-01-04 14:00:00,Ikeja
+CUST_1_20240104,Transfer,6,2024-01-04 14:17:00,Ikeja
+CUST_72_20240104,General Inquiry,2,2024-01-04 14:17:00,Ikeja
+CUST_5_20240104,General Inquiry,4,2024-01-04 14:26:00,Ikeja
+CUST_91_20240104,General Inquiry,3,2024-01-04 14:30:00,Ikeja
+CUST_59_20240104,Loan Application,20,2024-01-04 14:33:00,Ikeja
+CUST_2_20240104,Account Opening,35,2024-01-04 14:38:00,Ikeja
+CUST_93_20240104,Transfer,4,2024-01-04 15:05:00,Ikeja
+CUST_55_20240104,Cash Withdrawal,3,2024-01-04 15:11:00,Ikeja
+CUST_11_20240104,Account Opening,18,2024-01-04 15:17:00,Ikeja
+CUST_47_20240104,Cash Withdrawal,4,2024-01-04 15:17:00,Ikeja
+CUST_57_20240104,General Inquiry,4,2024-01-04 15:39:00,Ikeja
+CUST_48_20240104,General Inquiry,4,2024-01-04 15:50:00,Ikeja
+CUST_51_20240104,Cash Withdrawal,5,2024-01-04 15:53:00,Ikeja
+CUST_86_20240104,Transfer,6,2024-01-04 15:56:00,Ikeja
+CUST_62_20240104,Cash Withdrawal,8,2024-01-04 15:57:00,Ikeja
+CUST_33_20240104,Cash Withdrawal,7,2024-01-04 15:58:00,Ikeja
+CUST_77_20240104,Transfer,9,2024-01-04 15:58:00,Ikeja
+CUST_14_20240104,Cash Withdrawal,6,2024-01-04 15:59:00,Ikeja
+CUST_10_20240105,General Inquiry,4,2024-01-05 08:17:00,Victoria Island
+CUST_87_20240105,Transfer,7,2024-01-05 08:28:00,Victoria Island
+CUST_95_20240105,Loan Application,50,2024-01-05 08:52:00,Victoria Island
+CUST_102_20240105,General Inquiry,4,2024-01-05 08:57:00,Victoria Island
+CUST_81_20240105,General Inquiry,1,2024-01-05 09:02:00,Victoria Island
+CUST_40_20240105,Cash Withdrawal,7,2024-01-05 09:06:00,Victoria Island
+CUST_61_20240105,Cash Withdrawal,7,2024-01-05 09:17:00,Victoria Island
+CUST_67_20240105,Cash Withdrawal,8,2024-01-05 09:17:00,Victoria Island
+CUST_93_20240105,General Inquiry,1,2024-01-05 09:18:00,Victoria Island
+CUST_64_20240105,Transfer,5,2024-01-05 09:23:00,Victoria Island
+CUST_84_20240105,Cash Withdrawal,8,2024-01-05 09:25:00,Victoria Island
+CUST_85_20240105,Loan Application,39,2024-01-05 09:30:00,Victoria Island
+CUST_17_20240105,Account Opening,28,2024-01-05 09:32:00,Victoria Island
+CUST_71_20240105,Cash Withdrawal,7,2024-01-05 09:35:00,Victoria Island
+CUST_42_20240105,Transfer,6,2024-01-05 09:38:00,Victoria Island
+CUST_49_20240105,Transfer,5,2024-01-05 09:41:00,Victoria Island
+CUST_94_20240105,Transfer,8,2024-01-05 09:41:00,Victoria Island
+CUST_45_20240105,Cash Withdrawal,7,2024-01-05 09:51:00,Victoria Island
+CUST_73_20240105,Account Opening,44,2024-01-05 09:51:00,Victoria Island
+CUST_75_20240105,Transfer,4,2024-01-05 09:58:00,Victoria Island
+CUST_56_20240105,General Inquiry,3,2024-01-05 10:03:00,Victoria Island
+CUST_54_20240105,Transfer,10,2024-01-05 10:07:00,Victoria Island
+CUST_30_20240105,Transfer,4,2024-01-05 10:08:00,Victoria Island
+CUST_66_20240105,Cash Withdrawal,7,2024-01-05 10:09:00,Victoria Island
+CUST_46_20240105,Cash Withdrawal,7,2024-01-05 10:14:00,Victoria Island
+CUST_5_20240105,General Inquiry,4,2024-01-05 10:15:00,Victoria Island
+CUST_48_20240105,General Inquiry,5,2024-01-05 10:15:00,Victoria Island
+CUST_14_20240105,Loan Application,32,2024-01-05 10:24:00,Victoria Island
+CUST_51_20240105,Cash Withdrawal,2,2024-01-05 10:33:00,Victoria Island
+CUST_69_20240105,Cash Withdrawal,4,2024-01-05 10:33:00,Victoria Island
+CUST_90_20240105,Cash Withdrawal,6,2024-01-05 10:34:00,Victoria Island
+CUST_72_20240105,Cash Withdrawal,8,2024-01-05 10:35:00,Victoria Island
+CUST_96_20240105,General Inquiry,5,2024-01-05 10:35:00,Victoria Island
+CUST_15_20240105,Transfer,3,2024-01-05 10:39:00,Victoria Island
+CUST_8_20240105,Account Opening,31,2024-01-05 10:42:00,Victoria Island
+CUST_43_20240105,Account Opening,40,2024-01-05 10:42:00,Victoria Island
+CUST_92_20240105,Cash Withdrawal,8,2024-01-05 10:48:00,Victoria Island
+CUST_80_20240105,Transfer,10,2024-01-05 10:49:00,Victoria Island
+CUST_24_20240105,Cash Withdrawal,5,2024-01-05 10:51:00,Victoria Island
+CUST_53_20240105,General Inquiry,2,2024-01-05 10:53:00,Victoria Island
+CUST_20_20240105,Transfer,6,2024-01-05 10:54:00,Victoria Island
+CUST_34_20240105,Transfer,8,2024-01-05 10:55:00,Victoria Island
+CUST_2_20240105,Account Opening,15,2024-01-05 10:57:00,Victoria Island
+CUST_47_20240105,Cash Withdrawal,7,2024-01-05 11:06:00,Victoria Island
+CUST_3_20240105,Transfer,4,2024-01-05 11:07:00,Victoria Island
+CUST_22_20240105,Cash Withdrawal,8,2024-01-05 11:07:00,Victoria Island
+CUST_78_20240105,Transfer,8,2024-01-05 11:11:00,Victoria Island
+CUST_50_20240105,Transfer,3,2024-01-05 11:14:00,Victoria Island
+CUST_29_20240105,General Inquiry,2,2024-01-05 11:15:00,Victoria Island
+CUST_19_20240105,Cash Withdrawal,5,2024-01-05 11:18:00,Victoria Island
+CUST_9_20240105,Account Opening,25,2024-01-05 11:27:00,Victoria Island
+CUST_74_20240105,Cash Withdrawal,4,2024-01-05 11:29:00,Victoria Island
+CUST_18_20240105,Transfer,6,2024-01-05 11:43:00,Victoria Island
+CUST_39_20240105,Transfer,3,2024-01-05 11:44:00,Victoria Island
+CUST_76_20240105,General Inquiry,2,2024-01-05 11:46:00,Victoria Island
+CUST_38_20240105,Transfer,8,2024-01-05 11:47:00,Victoria Island
+CUST_52_20240105,Account Opening,22,2024-01-05 11:51:00,Victoria Island
+CUST_21_20240105,Cash Withdrawal,2,2024-01-05 12:04:00,Victoria Island
+CUST_58_20240105,Transfer,8,2024-01-05 12:04:00,Victoria Island
+CUST_79_20240105,Cash Withdrawal,5,2024-01-05 12:05:00,Victoria Island
+CUST_59_20240105,Cash Withdrawal,7,2024-01-05 12:09:00,Victoria Island
+CUST_86_20240105,General Inquiry,2,2024-01-05 12:17:00,Victoria Island
+CUST_57_20240105,Cash Withdrawal,8,2024-01-05 12:18:00,Victoria Island
+CUST_97_20240105,General Inquiry,5,2024-01-05 12:18:00,Victoria Island
+CUST_63_20240105,General Inquiry,4,2024-01-05 12:20:00,Victoria Island
+CUST_23_20240105,Cash Withdrawal,7,2024-01-05 12:30:00,Victoria Island
+CUST_6_20240105,Cash Withdrawal,6,2024-01-05 12:56:00,Victoria Island
+CUST_16_20240105,Account Opening,38,2024-01-05 12:57:00,Victoria Island
+CUST_32_20240105,Cash Withdrawal,6,2024-01-05 12:58:00,Victoria Island
+CUST_4_20240105,Transfer,6,2024-01-05 13:02:00,Victoria Island
+CUST_13_20240105,Cash Withdrawal,4,2024-01-05 13:04:00,Victoria Island
+CUST_91_20240105,Cash Withdrawal,7,2024-01-05 13:08:00,Victoria Island
+CUST_35_20240105,Account Opening,43,2024-01-05 13:13:00,Victoria Island
+CUST_41_20240105,Cash Withdrawal,4,2024-01-05 13:21:00,Victoria Island
+CUST_62_20240105,Cash Withdrawal,8,2024-01-05 13:21:00,Victoria Island
+CUST_1_20240105,Cash Withdrawal,4,2024-01-05 13:26:00,Victoria Island
+CUST_88_20240105,Transfer,3,2024-01-05 13:28:00,Victoria Island
+CUST_100_20240105,Cash Withdrawal,7,2024-01-05 13:29:00,Victoria Island
+CUST_26_20240105,Transfer,6,2024-01-05 13:32:00,Victoria Island
+CUST_99_20240105,Cash Withdrawal,5,2024-01-05 13:35:00,Victoria Island
+CUST_44_20240105,Transfer,5,2024-01-05 13:40:00,Victoria Island
+CUST_55_20240105,Cash Withdrawal,8,2024-01-05 13:45:00,Victoria Island
+CUST_68_20240105,Cash Withdrawal,6,2024-01-05 13:46:00,Victoria Island
+CUST_77_20240105,Loan Application,24,2024-01-05 13:47:00,Victoria Island
+CUST_11_20240105,Cash Withdrawal,8,2024-01-05 14:21:00,Victoria Island
+CUST_31_20240105,General Inquiry,4,2024-01-05 14:24:00,Victoria Island
+CUST_33_20240105,General Inquiry,3,2024-01-05 14:27:00,Victoria Island
+CUST_37_20240105,Cash Withdrawal,8,2024-01-05 14:30:00,Victoria Island
+CUST_36_20240105,Cash Withdrawal,8,2024-01-05 14:44:00,Victoria Island
+CUST_101_20240105,Cash Withdrawal,6,2024-01-05 14:45:00,Victoria Island
+CUST_25_20240105,Cash Withdrawal,5,2024-01-05 14:46:00,Victoria Island
+CUST_65_20240105,Cash Withdrawal,2,2024-01-05 14:49:00,Victoria Island
+CUST_7_20240105,Transfer,8,2024-01-05 14:56:00,Victoria Island
+CUST_83_20240105,Cash Withdrawal,4,2024-01-05 14:56:00,Victoria Island
+CUST_60_20240105,Transfer,6,2024-01-05 14:59:00,Victoria Island
+CUST_70_20240105,Cash Withdrawal,2,2024-01-05 15:00:00,Victoria Island
+CUST_82_20240105,Cash Withdrawal,8,2024-01-05 15:10:00,Victoria Island
+CUST_89_20240105,Loan Application,50,2024-01-05 15:23:00,Victoria Island
+CUST_12_20240105,Cash Withdrawal,2,2024-01-05 15:40:00,Victoria Island
+CUST_28_20240105,Cash Withdrawal,2,2024-01-05 15:41:00,Victoria Island
+CUST_27_20240105,Transfer,3,2024-01-05 15:47:00,Victoria Island
+CUST_98_20240105,General Inquiry,1,2024-01-05 15:50:00,Victoria Island
+CUST_69_20240105,General Inquiry,5,2024-01-05 08:12:00,Ikeja
+CUST_106_20240105,Cash Withdrawal,7,2024-01-05 08:18:00,Ikeja
+CUST_54_20240105,Cash Withdrawal,3,2024-01-05 08:38:00,Ikeja
+CUST_16_20240105,Cash Withdrawal,2,2024-01-05 08:41:00,Ikeja
+CUST_40_20240105,Cash Withdrawal,7,2024-01-05 08:41:00,Ikeja
+CUST_27_20240105,Loan Application,41,2024-01-05 08:42:00,Ikeja
+CUST_110_20240105,Transfer,4,2024-01-05 08:58:00,Ikeja
+CUST_59_20240105,Transfer,4,2024-01-05 09:02:00,Ikeja
+CUST_50_20240105,Account Opening,43,2024-01-05 09:10:00,Ikeja
+CUST_34_20240105,Account Opening,22,2024-01-05 09:16:00,Ikeja
+CUST_38_20240105,Cash Withdrawal,6,2024-01-05 09:18:00,Ikeja
+CUST_15_20240105,Transfer,5,2024-01-05 09:20:00,Ikeja
+CUST_20_20240105,Cash Withdrawal,5,2024-01-05 09:22:00,Ikeja
+CUST_75_20240105,Cash Withdrawal,8,2024-01-05 09:23:00,Ikeja
+CUST_85_20240105,Account Opening,21,2024-01-05 09:25:00,Ikeja
+CUST_88_20240105,Transfer,5,2024-01-05 09:27:00,Ikeja
+CUST_42_20240105,General Inquiry,5,2024-01-05 09:36:00,Ikeja
+CUST_44_20240105,Cash Withdrawal,3,2024-01-05 09:40:00,Ikeja
+CUST_49_20240105,Cash Withdrawal,4,2024-01-05 09:47:00,Ikeja
+CUST_9_20240105,Account Opening,44,2024-01-05 09:50:00,Ikeja
+CUST_19_20240105,Transfer,4,2024-01-05 09:51:00,Ikeja
+CUST_89_20240105,Transfer,8,2024-01-05 09:56:00,Ikeja
+CUST_74_20240105,Transfer,9,2024-01-05 09:58:00,Ikeja
+CUST_72_20240105,Transfer,8,2024-01-05 09:59:00,Ikeja
+CUST_64_20240105,General Inquiry,2,2024-01-05 10:01:00,Ikeja
+CUST_31_20240105,Cash Withdrawal,2,2024-01-05 10:02:00,Ikeja
+CUST_7_20240105,Transfer,4,2024-01-05 10:03:00,Ikeja
+CUST_8_20240105,Cash Withdrawal,2,2024-01-05 10:10:00,Ikeja
+CUST_78_20240105,Transfer,10,2024-01-05 10:18:00,Ikeja
+CUST_80_20240105,Cash Withdrawal,2,2024-01-05 10:24:00,Ikeja
+CUST_107_20240105,Cash Withdrawal,6,2024-01-05 10:25:00,Ikeja
+CUST_41_20240105,Loan Application,54,2024-01-05 10:30:00,Ikeja
+CUST_87_20240105,Loan Application,58,2024-01-05 10:34:00,Ikeja
+CUST_12_20240105,Cash Withdrawal,8,2024-01-05 10:35:00,Ikeja
+CUST_46_20240105,Transfer,4,2024-01-05 10:37:00,Ikeja
+CUST_71_20240105,Cash Withdrawal,6,2024-01-05 10:40:00,Ikeja
+CUST_56_20240105,Cash Withdrawal,5,2024-01-05 10:42:00,Ikeja
+CUST_43_20240105,Cash Withdrawal,6,2024-01-05 10:45:00,Ikeja
+CUST_81_20240105,Cash Withdrawal,7,2024-01-05 10:46:00,Ikeja
+CUST_3_20240105,Account Opening,24,2024-01-05 10:47:00,Ikeja
+CUST_51_20240105,Loan Application,24,2024-01-05 10:47:00,Ikeja
+CUST_11_20240105,Cash Withdrawal,8,2024-01-05 10:49:00,Ikeja
+CUST_33_20240105,General Inquiry,3,2024-01-05 10:49:00,Ikeja
+CUST_14_20240105,General Inquiry,5,2024-01-05 10:54:00,Ikeja
+CUST_5_20240105,Transfer,6,2024-01-05 10:55:00,Ikeja
+CUST_86_20240105,General Inquiry,3,2024-01-05 10:55:00,Ikeja
+CUST_97_20240105,Cash Withdrawal,5,2024-01-05 10:56:00,Ikeja
+CUST_57_20240105,Transfer,8,2024-01-05 11:06:00,Ikeja
+CUST_76_20240105,Cash Withdrawal,5,2024-01-05 11:10:00,Ikeja
+CUST_108_20240105,Transfer,5,2024-01-05 11:13:00,Ikeja
+CUST_17_20240105,Cash Withdrawal,5,2024-01-05 11:25:00,Ikeja
+CUST_36_20240105,Cash Withdrawal,7,2024-01-05 11:31:00,Ikeja
+CUST_62_20240105,Cash Withdrawal,5,2024-01-05 11:38:00,Ikeja
+CUST_47_20240105,Cash Withdrawal,5,2024-01-05 11:40:00,Ikeja
+CUST_18_20240105,Account Opening,37,2024-01-05 11:42:00,Ikeja
+CUST_67_20240105,Cash Withdrawal,6,2024-01-05 11:43:00,Ikeja
+CUST_98_20240105,Transfer,5,2024-01-05 11:46:00,Ikeja
+CUST_45_20240105,Cash Withdrawal,6,2024-01-05 11:47:00,Ikeja
+CUST_73_20240105,Cash Withdrawal,8,2024-01-05 11:56:00,Ikeja
+CUST_79_20240105,Cash Withdrawal,4,2024-01-05 11:58:00,Ikeja
+CUST_52_20240105,Cash Withdrawal,6,2024-01-05 12:00:00,Ikeja
+CUST_102_20240105,Account Opening,20,2024-01-05 12:03:00,Ikeja
+CUST_109_20240105,Account Opening,40,2024-01-05 12:06:00,Ikeja
+CUST_28_20240105,Cash Withdrawal,6,2024-01-05 12:08:00,Ikeja
+CUST_90_20240105,General Inquiry,5,2024-01-05 12:13:00,Ikeja
+CUST_63_20240105,Transfer,7,2024-01-05 12:26:00,Ikeja
+CUST_66_20240105,Account Opening,20,2024-01-05 12:27:00,Ikeja
+CUST_93_20240105,Loan Application,29,2024-01-05 12:44:00,Ikeja
+CUST_26_20240105,Cash Withdrawal,4,2024-01-05 12:46:00,Ikeja
+CUST_101_20240105,Transfer,10,2024-01-05 12:59:00,Ikeja
+CUST_83_20240105,Transfer,6,2024-01-05 13:01:00,Ikeja
+CUST_111_20240105,Transfer,8,2024-01-05 13:03:00,Ikeja
+CUST_95_20240105,Account Opening,33,2024-01-05 13:04:00,Ikeja
+CUST_35_20240105,Cash Withdrawal,8,2024-01-05 13:07:00,Ikeja
+CUST_10_20240105,Account Opening,24,2024-01-05 13:09:00,Ikeja
+CUST_30_20240105,Transfer,3,2024-01-05 13:12:00,Ikeja
+CUST_94_20240105,Cash Withdrawal,2,2024-01-05 13:16:00,Ikeja
+CUST_61_20240105,Transfer,7,2024-01-05 13:25:00,Ikeja
+CUST_96_20240105,Transfer,10,2024-01-05 13:26:00,Ikeja
+CUST_2_20240105,Transfer,6,2024-01-05 13:33:00,Ikeja
+CUST_24_20240105,Cash Withdrawal,6,2024-01-05 13:37:00,Ikeja
+CUST_21_20240105,Cash Withdrawal,3,2024-01-05 13:43:00,Ikeja
+CUST_91_20240105,Transfer,5,2024-01-05 13:47:00,Ikeja
+CUST_32_20240105,Loan Application,26,2024-01-05 13:51:00,Ikeja
+CUST_37_20240105,General Inquiry,4,2024-01-05 13:51:00,Ikeja
+CUST_48_20240105,General Inquiry,3,2024-01-05 13:53:00,Ikeja
+CUST_22_20240105,Account Opening,41,2024-01-05 14:02:00,Ikeja
+CUST_68_20240105,Transfer,4,2024-01-05 14:03:00,Ikeja
+CUST_1_20240105,Transfer,4,2024-01-05 14:05:00,Ikeja
+CUST_23_20240105,Loan Application,57,2024-01-05 14:06:00,Ikeja
+CUST_6_20240105,General Inquiry,5,2024-01-05 14:12:00,Ikeja
+CUST_53_20240105,Cash Withdrawal,4,2024-01-05 14:16:00,Ikeja
+CUST_39_20240105,Cash Withdrawal,2,2024-01-05 14:20:00,Ikeja
+CUST_105_20240105,Account Opening,35,2024-01-05 14:22:00,Ikeja
+CUST_103_20240105,Cash Withdrawal,4,2024-01-05 14:25:00,Ikeja
+CUST_92_20240105,Account Opening,33,2024-01-05 14:26:00,Ikeja
+CUST_82_20240105,Cash Withdrawal,8,2024-01-05 14:35:00,Ikeja
+CUST_70_20240105,Cash Withdrawal,2,2024-01-05 14:39:00,Ikeja
+CUST_55_20240105,Transfer,6,2024-01-05 14:48:00,Ikeja
+CUST_25_20240105,Cash Withdrawal,4,2024-01-05 14:59:00,Ikeja
+CUST_65_20240105,Transfer,9,2024-01-05 15:14:00,Ikeja
+CUST_58_20240105,Account Opening,21,2024-01-05 15:27:00,Ikeja
+CUST_104_20240105,Transfer,9,2024-01-05 15:28:00,Ikeja
+CUST_99_20240105,General Inquiry,4,2024-01-05 15:35:00,Ikeja
+CUST_4_20240105,Cash Withdrawal,6,2024-01-05 15:39:00,Ikeja
+CUST_60_20240105,Account Opening,37,2024-01-05 15:39:00,Ikeja
+CUST_13_20240105,Transfer,10,2024-01-05 15:44:00,Ikeja
+CUST_77_20240105,Loan Application,29,2024-01-05 15:45:00,Ikeja
+CUST_29_20240105,Transfer,5,2024-01-05 15:52:00,Ikeja
+CUST_100_20240105,Cash Withdrawal,2,2024-01-05 15:54:00,Ikeja
+CUST_84_20240105,General Inquiry,2,2024-01-05 15:56:00,Ikeja

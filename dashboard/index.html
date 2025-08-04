@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QueueSmart Admin Dashboard</title>
+    <link rel="stylesheet" href="/dashboard/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <i class="fas fa-clock"></i>
+                <h1>QueueSmart Dashboard</h1>
+            </div>
+            <div class="system-status" id="systemStatus">
+                <span class="status-indicator" id="statusIndicator"></span>
+                <span id="statusText">Checking...</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Dashboard -->
+    <main class="dashboard">
+        <!-- Overview Cards -->
+        <section class="overview-section">
+            <h2>System Overview</h2>
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-icon">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3>Active Branches</h3>
+                        <p class="card-value" id="activeBranches">-</p>
+                        <p class="card-subtitle">Currently monitored</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3>Predictions Today</h3>
+                        <p class="card-value" id="predictionsToday">-</p>
+                        <p class="card-subtitle">Wait time predictions</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">
+                        <i class="fas fa-clock"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3>Avg Wait Time</h3>
+                        <p class="card-value" id="avgWaitTime">-</p>
+                        <p class="card-subtitle">Across all branches</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3>Model Accuracy</h3>
+                        <p class="card-value" id="modelAccuracy">-</p>
+                        <p class="card-subtitle">Prediction accuracy</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Real-time Monitoring -->
+        <section class="monitoring-section">
+            <div class="section-grid">
+                <!-- Live Predictions -->
+                <div class="section-card">
+                    <div class="section-header">
+                        <h3><i class="fas fa-eye"></i> Live Branch Monitor</h3>
+                        <button class="refresh-btn" id="refreshMonitor">
+                            <i class="fas fa-sync-alt"></i> Refresh
+                        </button>
+                    </div>
+                    <div class="branch-monitor" id="branchMonitor">
+                        <!-- Branch status cards will be populated here -->
+                    </div>
+                </div>
+
+                <!-- Quick Prediction Test -->
+                <div class="section-card">
+                    <div class="section-header">
+                        <h3><i class="fas fa-calculator"></i> Quick Prediction Test</h3>
+                    </div>
+                    <div class="prediction-form">
+                        <div class="form-row">
+                            <label for="testBranch">Branch:</label>
+                            <select id="testBranch">
+                                <option value="">Select Branch...</option>
+                            </select>
+                        </div>
+                        <div class="form-row">
+                            <label for="testService">Service:</label>
+                            <select id="testService">
+                                <option value="">Select Service...</option>
+                            </select>
+                        </div>
+                        <div class="form-row">
+                            <label for="testHour">Hour:</label>
+                            <input type="number" id="testHour" min="8" max="16" value="10">
+                        </div>
+                        <div class="form-row">
+                            <label for="testQueueLength">Queue Length:</label>
+                            <input type="number" id="testQueueLength" min="0" max="20" value="3">
+                        </div>
+                        <button class="test-btn" id="runPrediction">
+                            <i class="fas fa-play"></i> Run Prediction
+                        </button>
+                        <div class="prediction-result" id="predictionResult" style="display: none;">
+                            <h4>Prediction Result:</h4>
+                            <p id="predictionOutput"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Analytics -->
+        <section class="analytics-section">
+            <h2>Analytics & Insights</h2>
+            <div class="analytics-grid">
+                <!-- Wait Time Trends -->
+                <div class="chart-container">
+                    <h3>Wait Time Trends</h3>
+                    <canvas id="waitTimeChart"></canvas>
+                </div>
+
+                <!-- Branch Performance -->
+                <div class="chart-container">
+                    <h3>Branch Performance</h3>
+                    <canvas id="branchChart"></canvas>
+                </div>
+
+                <!-- Service Distribution -->
+                <div class="chart-container">
+                    <h3>Service Type Distribution</h3>
+                    <canvas id="serviceChart"></canvas>
+                </div>
+
+                <!-- Hourly Patterns -->
+                <div class="chart-container">
+                    <h3>Hourly Queue Patterns</h3>
+                    <canvas id="hourlyChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Model Information -->
+        <section class="model-section">
+            <h2>Model Information</h2>
+            <div class="model-info-grid">
+                <div class="model-card">
+                    <h3><i class="fas fa-robot"></i> Current Model</h3>
+                    <div class="model-details" id="modelDetails">
+                        <!-- Model information will be populated here -->
+                    </div>
+                </div>
+
+                <div class="model-card">
+                    <h3><i class="fas fa-cogs"></i> Model Features</h3>
+                    <div class="feature-list" id="featureList">
+                        <!-- Features will be populated here -->
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2025 QueueSmart - AI-Powered Queue Management System</p>
+        <p>Last updated: <span id="lastUpdated">-</span></p>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="/dashboard/config.js"></script>
+    <script src="/dashboard/script.js"></script>
+</body>
+</html>
