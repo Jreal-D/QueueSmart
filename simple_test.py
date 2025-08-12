@@ -1,7 +1,7 @@
 from flask import Flask, jsonify
 import os
 
-print("Starting simple Flask test...")
+print("=== STARTING ON PORT 5 ===")
 
 app = Flask(__name__)
 
@@ -10,7 +10,8 @@ def home():
     return jsonify({
         'service': 'QueueSmart Simple Test',
         'status': 'running',
-        'message': 'Basic Flask is working on Railway!'
+        'message': 'Flask running on port 5!',
+        'port': 5
     })
 
 @app.route('/health')
@@ -18,7 +19,5 @@ def health():
     return jsonify({'status': 'OK'})
 
 if __name__ == '__main__':
-    print("Simple test starting...")
-    port = int(os.environ.get("PORT", 5000))
-    print(f"Port: {port}")
-    app.run(host='0.0.0.0', port=port, debug=False)
+    print("Starting Flask on port 5...")
+    app.run(host='0.0.0.0', port=5, debug=False)
