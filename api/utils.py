@@ -27,6 +27,22 @@ class ModelManager:
             # Get the correct path to the model file
             current_dir = os.path.dirname(os.path.abspath(__file__))
             project_root = os.path.dirname(current_dir)
+
+            # ADD THESE DEBUG LINES:
+            print(f"DEBUG: current_dir = {current_dir}")
+            print(f"DEBUG: parent_dir = {parent_dir}")
+            print(f"DEBUG: Files in parent_dir = {os.listdir(parent_dir) if os.path.exists(parent_dir) else 'NOT_FOUND'}")
+            models_dir = os.path.join(parent_dir, 'models')
+            print(f"DEBUG: models_dir = {models_dir}")
+            print(f"DEBUG: models_dir exists = {os.path.exists(models_dir)}")
+            if os.path.exists(models_dir):
+                print(f"DEBUG: Files in models_dir = {os.listdir(models_dir)}")
+
+            sys.path.insert(0, parent_dir)
+            # Now import from the models directory
+            sys.path.append(os.path.join(parent_dir, 'models'))
+            from ml_predictor import predict_wait_time, load_model
+            
             model_path = os.path.join(project_root, 'models', 'random_forest_tuned_model.joblib')
             
             if os.path.exists(model_path):
