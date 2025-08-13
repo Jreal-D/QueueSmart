@@ -4,8 +4,8 @@ from datetime import datetime
 import json
 import os
 
-from api.models import PredictionRequest, PredictionResponse, ErrorResponse
-from api.utils import ModelManager, RequestValidator, calculate_confidence_level, calculate_estimated_service_time
+from models import PredictionRequest, PredictionResponse, ErrorResponse
+from utils import ModelManager, RequestValidator, calculate_confidence_level, calculate_estimated_service_time
 
 # Initialize Flask app
 app = Flask(__name__)
