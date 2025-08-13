@@ -11,7 +11,7 @@ sys.path.insert(0, parent_dir)
 
 # Now import from the models directory
 sys.path.append(os.path.join(parent_dir, 'models'))
-from .ml_predictor import predict_wait_time, load_model
+from ml_predictor import predict_wait_time, load_model
 
 class ModelManager:
     """Manages the ML model loading and predictions"""
