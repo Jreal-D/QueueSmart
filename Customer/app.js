@@ -1,7 +1,7 @@
 // Customer Interface Application
 class CustomerApp {
     constructor() {
-        this.apiBaseUrl = 'https://queuesmart-production.up.railway.app';
+        this.apiBaseUrl = 'https://queuesmart.onrender.com';
         this.currentBranch = null;
         this.currentService = null;
         this.queueActive = false;
