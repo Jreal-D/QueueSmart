@@ -1,6 +1,6 @@
 // API Configuration
 const API_CONFIG = {
-    BASE_URL: 'https://queuesmart-production.up.railway.app',
+    BASE_URL: 'https://queuesmart.onrender.com.app',
     ENDPOINTS: {
         HEALTH: '/',
         PREDICT: '/api/predict',
