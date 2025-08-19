@@ -373,6 +373,7 @@ class CustomerApp {
     const timeString = `${hour}:00 on ${date.toLocaleDateString()}`
     Toastify({
       text: `Great choice! ${timeString} is typically a good time with shorter wait times.`,
+      duration: 5000,
       close: true,
       position: "center",
       offset: {
@@ -472,9 +473,13 @@ class CustomerApp {
     // Show smart confirmation message
     let message = ""
     if (notifyInMinutes <= 1) {
-      message = `You should start heading to the bank now! Your turn will be ready in ${currentWaitTime} minutes.`
+      message = `You should start heading to the bank now! Your turn will be ready in ${currentWaitTime.toPrecision(
+        3
+      )} minutes.`
     } else {
-      message = `We'll notify you in ${notifyInMinutes} minutes to start heading to the bank.`
+      message = `We'll notify you in ${notifyInMinutes.toPrecision(
+        3
+      )} minutes to start heading to the bank.`
     }
 
     this.showSuccess(message)
@@ -656,7 +661,7 @@ class CustomerApp {
         queueData.phase = "ready"
         localStorage.setItem("queueData", JSON.stringify(queueData))
         this.showQueueStatus(queueData)
-        this.showSuccess("Great! You should be called shortly.")
+        this.showSuccess("You should be called shortly.")
       })
     }
 
@@ -787,6 +792,7 @@ class CustomerApp {
   showError(message) {
     Toastify({
       text: "Error: " + message,
+      duration: 5000,
       close: true,
       position: "center",
       offset: {
@@ -801,6 +807,7 @@ class CustomerApp {
   showSuccess(message) {
     Toastify({
       text: "Success: " + message,
+      duration: 5000,
       close: true,
       position: "center",
       offset: {
